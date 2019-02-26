@@ -1,0 +1,906 @@
+,Jobtitle,Location,Salary,Company,Cities,USDSalary
+1,Graduate Environmental Scientist,"Philadelphia, PA",47783,City of Philadelphia,Philadelphia,47783.0
+9,Environmental Scientist Specialist,"Philadelphia, PA",56589,City of Philadelphia,Philadelphia,56589.0
+20,"Data Scientist/ Python, R","Bala-Cynwyd, PA",110000,Workbridge Associates,Philadelphia,110000.0
+30,Data Scientist,"Philadelphia, PA",90000,Jobspring Partners,Philadelphia,90000.0
+33,"Data Scientist/Analyst (R, Python,Google Cloud)","Philadelphia, PA",90000,Workbridge Associates,Philadelphia,90000.0
+60,"Lead Data Scientist/ Python, Spark, Pandas","Philadelphia, PA",150000,Workbridge Associates,Philadelphia,150000.0
+63,Lead Data Scientist,"Philadelphia, PA",140000,Workbridge Associates,Philadelphia,140000.0
+84,Software Engineer - Data Scientist (python),"Philadelphia, PA",100000,Workbridge Associates,Philadelphia,100000.0
+121,"Lead Data Scientist/ Python, R, Spark","Philadelphia, PA",145000,Workbridge Associates,Philadelphia,145000.0
+139,Senior Machine Learning Expert/ Data Scientist,"Philadelphia, PA",110000,Workbridge Associates,Philadelphia,110000.0
+191,Director of Advanced Analytics /Data Science & Data Engineer...,"Media, PA",180000,Workbridge Associates,Philadelphia,180000.0
+238,Quant Research Analyst,"Philadelphia, PA",150000,3coast,Philadelphia,150000.0
+269,Senior Data Scientist/Senior Machine Learning Engineer,"Norristown, PA",120000,Workbridge Associates,Philadelphia,120000.0
+284,Chief Technology Officer (CTO),"King of Prussia, PA",130000,Workbridge Associates,Philadelphia,130000.0
+371,"Software/DevOps/Data Engineer (yup, combo of all!)","Malvern, PA",65000,Workbridge Associates,Philadelphia,65000.0
+376,Fullstack Software Engineer,"Plymouth Meeting, PA",100000,IQVIA,Philadelphia,100000.0
+395,Python Developer,"Bryn Mawr, PA",75000,Jobspring Partners,Philadelphia,75000.0
+408,Talented Python Engineer with Machine Learning,"Philadelphia, PA",90000,Jobspring Partners,Philadelphia,90000.0
+424,UX Researcher for World Class Customer Experiences,"Malvern, PA",120000,Workbridge Associates,Philadelphia,120000.0
+426,Python Engineer with Machine Learning,"Blue Bell, PA",115000,Jobspring Partners,Philadelphia,115000.0
+435,"Senior Python Developer - Flask, Data Science","Plymouth Meeting, PA",120000,Workbridge Associates,Philadelphia,120000.0
+444,Java Architect,"Plymouth Meeting, PA",90000,Jobspring Partners,Philadelphia,90000.0
+457,Junior Data Analyst - data analysis,"Philadelphia, PA",40000,"Computer Enterprises, Inc. (CEI)",Philadelphia,40000.0
+474,"Scientist (Formulation, Rheology, Polymer)","Kimberton, PA",50000,Apex Life Sciences,Philadelphia,50000.0
+477,Data Engineer,"Bala-Cynwyd, PA",100000,Recruiting Resources,Philadelphia,100000.0
+486,Data Engineer,"Bala-Cynwyd, PA",100000,Genesis Global Management Corporation,Philadelphia,100000.0
+488,Data Science Manager,"Philadelphia, PA 19103",100000,MRP,Philadelphia,100000.0
+497,Data Scientist,"Philadelphia, PA",80000,Smith Hanley Associates,Philadelphia,80000.0
+506,Data Analytics (Big Data Scientist),"Wilmington, DE",70000,"Kennedy Unlimited Inc, Professional Staffing",Philadelphia,70000.0
+507,Biological Research Technician,"Malvern, PA 19355",40000,Vector Biolabs,Philadelphia,40000.0
+511,Data Architect/Engineer,"Bala-Cynwyd, PA",120000,"TurnKey Staffing, LLC",Philadelphia,120000.0
+514,Senior Data Scientist/Statistician-PHARMA,"Philadelphia, PA",110000,Smith Hanley Associates,Philadelphia,110000.0
+536,Japan Equity Research Analyst (Buy Side) - Bilingual Japanes...,"Philadelphia, PA",80000,APA International Placement Consultants,Philadelphia,80000.0
+545,Lead Machine Learning Engineer,"Philadelphia, PA",125000,Mondo,Philadelphia,125000.0
+635,DevOps Automation Engineer,"Philadelphia, PA 19107 (City Center East area)",114000,Sidecar,Philadelphia,114000.0
+638,Software Architect Artificial Intelligence Machine Learning...,"King of Prussia, PA",117000,Liberty Personnel Services,Philadelphia,117000.0
+3005,Research & Data Analyst (Long Term Temporary),"Tukwila, WA",55000,King County Housing Authority,Washington,55000.0
+3043,Quantitative Fisheries Scientist,"Auburn, WA",72552,Muckleshoot Indian Tribe,Washington,72552.0
+3067,Lead Fisheries Habitat Scientist,"Auburn, WA",92764,Muckleshoot Indian Tribe,Washington,92764.0
+3075,Biological Science Laboratory Technician,"Pullman, WA",50598,US Department of Agriculture,Washington,50598.0
+3116,Social Research Scientist - Senior,"Seattle, WA",100369,King County,Washington,100369.0
+3119,Water Quality Monitoring/Data Analysis Specialist (Environme...,"Lacey, WA",50004,State of Washington Dept. of Ecology,Washington,50004.0
+3127,Head Data Scientist,"Seattle, WA",200000,All-In Analytics,Washington,200000.0
+3133,"principal data scientist, data & measurement science, Custom...","Seattle, WA",128000,Starbucks,Washington,128000.0
+3135,Water Quality Assessment Scientist (Natural Resource Scienti...,"Lacey, WA",56580,State of Washington Dept. of Ecology,Washington,56580.0
+3163,"Senior Bioinformatician, Data Sciences","Seattle, WA",90000,"PreCyte, Inc.",Washington,90000.0
+3175,Sr. Data Scientist,"Seattle, WA",130000,All-In Analytics,Washington,130000.0
+3187,"Senior Data Scientist, Pricing Sophistication - Product Desi...","Seattle, WA",92000,Liberty Mutual,Washington,92000.0
+3191,"Senior Data Scientist, Product Design & Modeling - Global Re...","Seattle, WA",102500,Liberty Mutual,Washington,102500.0
+3231,Prep Room Specialist (Environmental Specialist 2) (In Traini...,"Lacey, WA",39204,State of Washington Dept. of Ecology,Washington,39204.0
+3319,Software Engineer - Data Flow,"Seattle, WA",102000,Facebook,Washington,102000.0
+3322,Post Doctorate RA - WRF Modeling for Renewable Energy,"Richland, WA",47000,Pacific Northwest National Laboratory,Washington,47000.0
+3375,Senior Research Analyst,"Seattle, WA",52972,Seattle Community Colleges,Washington,52972.0
+3555,Regional Wetland Specialist (Environmental Specialist 4),"Bellevue, WA",52536,State of Washington Dept. of Ecology,Washington,52536.0
+3567,Senior Regulatory Toxicologist (Toxicologist 3),"Lacey, WA",70620,State of Washington Dept. of Ecology,Washington,70620.0
+3587,"DIVISION TECHNICAL DIRECTOR, NAVAL UNDERSEA WARFARE CENTER D...","Keyport, WA",126148,US Department of the Navy,Washington,126148.0
+3594,Software Engineer - Backend,"Seattle, WA 98104 (First Hill area)",100000,Textio,Washington,100000.0
+3600,Toxics Reduction Engineer (Environmental Engineer 3),"Lacey, WA",67236,State of Washington Dept. of Ecology,Washington,67236.0
+3604,Software Engineer,"Adelaide, WA",87000,QxBranch,Washington,87000.0
+3923,Data Scientist / Statistician,"Seattle, WA 98103 (Green Lake - Wallingford area)",85000,Kids on 45th,Washington,85000.0
+3935,Machine Learning/Data Scientist,"Seattle, WA",200000,Gradient.io,Washington,200000.0
+3964,Senior Computational Linguist,"Seattle, WA",180000,R2 Global AI,Washington,180000.0
+3988,Biostatistician,"Seattle, WA 98121 (Belltown area)",80000,Axio Research LLC,Washington,80000.0
+4026,Data Scientist Class A - II,"Bellevue, WA",81000,JMA,Washington,81000.0
+5090,SQL Developer/BI/Data engieer - Cosmos/ Scope,"Redmond, WA",79000,HCL Technologies,Washington,79000.0
+5098,Postdoctoral Fellow,"Seattle, WA 98109 (Westlake area)",53000,Fred Hutchinson Cancer Research Center,Washington,53000.0
+5995,Interdisciplinary General Engineer/Physical Scientist,"Golden, CO",94890,US Department of Energy,Denver,94890.0
+6011,Munitions Response Project Engineer or Scientist,"Lakewood, CO",50000,Weston Solutions,Denver,50000.0
+6094,Senior Professional Research Assistant,"Aurora, CO",60000,University of Colorado,Denver,60000.0
+6113,Graduate Academic Advisor,"Boulder, CO",48000,University of Colorado Boulder,Denver,48000.0
+6131,Center Administrator,"Aurora, CO",65000,University of Colorado,Denver,65000.0
+6179,Operations Research Analyst,"Buckley AFB, CO",72168,US Department of the Air Force,Denver,72168.0
+6272,Front End Developer IV,"Boulder, CO 80301",95000,Battelle,Denver,95000.0
+6274,Postdoctoral Researcher – Automotive Thermal Systems and HVA...,"Golden, CO",41000,National Renewable Energy Laboratory,Denver,41000.0
+6430,Engineer Senior-Manufacturing (663882),"Boulder, CO",86000,Ball Aerospace,Denver,86000.0
+6434,Engineer II-Thermal (664197) Security Clearance Required,"Boulder, CO",67000,Ball Aerospace,Denver,67000.0
+6435,Project Engineer II - Mission Assurance Manager (664654),"Boulder, CO",91000,Ball Aerospace,Denver,91000.0
+6437,Electrical / Architectural Engineer,"Denver, CO",90000,Burns & McDonnell,Denver,90000.0
+6579,Environmental Scientist/Engineer,"Wheat Ridge, CO 80033",60000,"Pacific Western Technologies, Ltd.",Denver,60000.0
+6594,Experienced Performance Marketer,"Denver, CO",60000,Swanky Smiles,Denver,60000.0
+6626,Senior Process Enginer,"Denver, CO",100000,Personnel Services,Denver,100000.0
+6807,Process Engineer,"Denver, CO",84000,"Advanced Search Group, Inc",Denver,84000.0
+6808,Software Architect,"Denver, CO 80237 (Southeastern Denver area)",91000,GEI Consultants Inc,Denver,91000.0
+6810,Government Services Solution Architect,"Golden, CO",124000,xentity corporation,Denver,124000.0
+6815,Independent Consultant - Government Solution Architect,"Denver, CO",126000,xentity corporation,Denver,126000.0
+7951,Software Engineer II (OPIR Team),"Centennial, CO",83000,Cosmic AES,Denver,83000.0
+9008,Policy & Research Analyst,"San Francisco, CA",70866,United States District Court,San+Francisco,70866.0
+9065,"Data Scientist, Operations Research","San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9145,Data Scientist,"San Francisco, CA",150000,All-In Analytics,San+Francisco,150000.0
+9166,"Sr. Data Scientist, City Operations","San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9170,Chief Data Scientist,"San Francisco, CA",190000,Harnham US,San+Francisco,190000.0
+9176,"Sr. Data Scientist, Partnerships","San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9182,Sr. Finance Data Scientist,"San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9190,"Sr. Data Scientist, New Products","San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9195,"Sr. Data Scientist, HR Analytics","San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9203,Sr. Data Scientist of Products,"San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9205,Head of Data Science,"San Francisco, CA",200000,Harnham US,San+Francisco,200000.0
+9228,Sr. Marketing Data Scientist,"San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9235,"Sr. Data Scientist, Consumer Package Goods","San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9239,Lead Data Scientist,"San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9260,Principal Data Scientist,"San Francisco, CA",200000,Harnham US,San+Francisco,200000.0
+9291,"Sr. Data Scientist, Customer Logistics Analytics","San Francisco, CA",130000,All-In Analytics,San+Francisco,130000.0
+9307,Regulatory Analytics & Research Data Scientist,"San Francisco, CA 94105 (Financial District area)",121000,Pacific Gas And Electric Company,San+Francisco,121000.0
+9310,Sales Program Analyst,"San Francisco, CA",61000,JUUL Labs,San+Francisco,61000.0
+9327,Head of Data Science,"San Francisco, CA",138000,"Zendrive, Inc.",San+Francisco,138000.0
+9328,Data Scientist,"Redwood City, CA 94063",137000,C3,San+Francisco,137000.0
+9334,"PHC Associate Data Scientist/Data Scientist, Real World Data...","South San Francisco, CA",110000,Genentech,San+Francisco,110000.0
+9367,Senior Data Scientist,"San Francisco, CA",160000,Jobspring Partners,San+Francisco,160000.0
+9410,Machine Learning Engineer,"San Francisco, CA",90000,Synapse Financial Technologies Inc,San+Francisco,90000.0
+9413,Senior Data Scientist,"San Francisco, CA",120000,Workbridge Associates,San+Francisco,120000.0
+9496,"Manager, Data Science/Machine Learning","San Francisco, CA",96000,Salesforce,San+Francisco,96000.0
+9568,Deep Learning Scientist,"San Francisco, CA",175000,Harnham US,San+Francisco,175000.0
+9571,Lecturer - Sutardja Center for Entrepreneurship & Technology,"Berkeley, CA",61930,University of California Berkeley,San+Francisco,61930.0
+9635,Software Engineer - Data,"San Francisco, CA",120000,Harnham US,San+Francisco,120000.0
+9757,Postdoctoral Scholar - Science Education Technology - Gradua...,"Berkeley, CA",51200,University of California Berkeley,San+Francisco,51200.0
+9788,Project Scientist - Department of Physics - University of Ca...,"Berkeley, CA",67300,University of California Berkeley,San+Francisco,67300.0
+9802,Principal Data Engineer - Machine Learning,"San Francisco, CA",150000,Workbridge Associates,San+Francisco,150000.0
+9828,Senior Business Analyst - Insurance,"San Francisco, CA",100000,Blue Owl,San+Francisco,100000.0
+9934,Systems Engineer - Mapping Analyst,"San Francisco, CA",94000,Cruise Automation,San+Francisco,94000.0
+9961,Application Security Engineer,"San Francisco, CA",180000,Blue Owl,San+Francisco,180000.0
+9983,Senior Data Science,"Redwood City, CA",140000,Workbridge Associates,San+Francisco,140000.0
+9994,Big Data Engineer,"San Francisco, CA",130000,Harnham US,San+Francisco,130000.0
+10045,"Software Engineer, Square Capital","San Francisco, CA 94103 (South Of Market area)",107000,Square,San+Francisco,107000.0
+11992,ENVIRONMENTAL SCIENTIST SPECIALIST 1-3,"Phoenix, AZ",40000,State of Arizona,Phoenix,40000.0
+11998,"ENVIRONMENTAL SCIENTIST 2,3 - DRINKING WATER","Phoenix, AZ",45000,State of Arizona,Phoenix,45000.0
+11999,Data Scientist,"Scottsdale, AZ",80000,VincentBenjamin,Phoenix,80000.0
+12000,"ENVIRONMENTAL SCIENTIST 3, 4","Phoenix, AZ",50000,State of Arizona,Phoenix,50000.0
+12004,ENVIRONMENTAL SCIENTIST - AIR,"Phoenix, AZ",67000,State of Arizona,Phoenix,67000.0
+12007,GENERAL PHYSICAL SCIENTIST,"Phoenix, AZ",35854,US Department of the Navy,Phoenix,35854.0
+12012,Planning Research Analyst (Open until filled),"Phoenix, AZ",52139,Maricopa County Community College District,Phoenix,52139.0
+12057,MATHEMATICIAN,"Phoenix, AZ",33394,US Department of the Navy,Phoenix,33394.0
+12070,OPERATIONS RESEARCH,"Phoenix, AZ",33394,US Department of the Navy,Phoenix,33394.0
+12071,INTERIOR DESIGNER,"Phoenix, AZ",35854,US Department of the Navy,Phoenix,35854.0
+12079,TAX ANALYST 2 - TAX POLICY AND RESEARCH,"Phoenix, AZ",57000,State of Arizona,Phoenix,57000.0
+12081,Computer Engineer/Electronics Engineer/Computer Scientist,"Phoenix, AZ",37630,US Department of the Army,Phoenix,37630.0
+12108,Big Data Engineer – DevOps and Python,"Tempe, AZ",100000,Request Technology,Phoenix,100000.0
+12118,Data Scientist - Inventory,"Tempe, AZ",102000,Carvana,Phoenix,102000.0
+12119,Environmental Scientist II - Section 404 Permitting,"Phoenix, AZ",45000,AZ Dept of Environmental Quality,Phoenix,45000.0
+12120,Data Scientist - Credit,"Tempe, AZ",98000,Carvana,Phoenix,98000.0
+12121,Data Scientist / Engineer,"Tempe, AZ",81000,Carvana,Phoenix,81000.0
+12122,Data Scientist,"Scottsdale, AZ",86000,AdviNow Medical,Phoenix,86000.0
+12124,Data Scientist,"Chandler, AZ",92000,Newton Group Transfers,Phoenix,92000.0
+12125,Data Scientist,"Chandler, AZ",93000,Brightside,Phoenix,93000.0
+12126,Senior Data Scientist,"Tempe, AZ",105000,IITS,Phoenix,105000.0
+12276,Data Science Engineer,"Tempe, AZ",86000,Carvana,Phoenix,86000.0
+12279,Senior Data Science Engineer,"Tempe, AZ",101000,Carvana,Phoenix,101000.0
+12282,Senior Software Engineer,"Scottsdale, AZ",96000,AdviNow Medical,Phoenix,96000.0
+14990,Research Scientist - Cancer Biology,"Houston, TX 77030 (Medical area)",53200,MD Anderson Cancer Center,Houston,53200.0
+14998,Research Scientist - Immunology,"Houston, TX 77030 (Medical area)",53200,MD Anderson Cancer Center,Houston,53200.0
+14999,"Medical Lab Scientist, Lab Services - Clear Lake Campus - 62...","Clear Lake City, TX",53600,UTMB,Houston,53600.0
+15004,"Research Scientist, Hepatobiliary & Pancreatic Cancers - Qua...","Houston, TX 77030 (Medical area)",53200,MD Anderson Cancer Center,Houston,53200.0
+15032,Research Scientist - Leukemia,"Houston, TX 77030 (Medical area)",53200,MD Anderson Cancer Center,Houston,53200.0
+15033,Research Scientist (non-laboratory) - Hematological Malignan...,"Houston, TX 77030 (Medical area)",53200,MD Anderson Cancer Center,Houston,53200.0
+15034,"Senior Medical Lab Scientist, Lab Services - Clear Lake Camp...","Clear Lake City, TX",59200,UTMB,Houston,59200.0
+15067,Research Scientist - Dr. Kapil N. Bhalla's Laboratory,"Houston, TX 77030 (Medical area)",53200,MD Anderson Cancer Center,Houston,53200.0
+15070,Institute Associate Scientist II - Drug Metabolism and Pharm...,"Houston, TX 77030 (Medical area)",48000,MD Anderson Cancer Center,Houston,48000.0
+15082,Research Statistical Analyst - Biostatistics,"Houston, TX 77030 (Medical area)",68400,MD Anderson Cancer Center,Houston,68400.0
+15090,"Principal Institute Research Scientist - Drug Discovery, Bio...","Houston, TX 77030 (Medical area)",129000,MD Anderson Cancer Center,Houston,129000.0
+15123,Institute Senior Research Scientist - Translational Biomarke...,"Houston, TX 77030 (Medical area)",112000,MD Anderson Cancer Center,Houston,112000.0
+15128,Institute Research Scientist - Flow Cytometry,"Houston, TX 77030 (Medical area)",98000,MD Anderson Cancer Center,Houston,98000.0
+15140,Senior Research Scientist - In Vivo & Flow Cytometry,"Houston, TX 77030 (Medical area)",59200,MD Anderson Cancer Center,Houston,59200.0
+15144,Quality Assurance Analyst (Research),"Houston, TX",45984,Baylor College of Medicine,Houston,45984.0
+15148,Research Technician III,"Houston, TX",33500,Baylor College of Medicine,Houston,33500.0
+15154,Institute Research Scientist - In-Vitro Pharmacology,"Houston, TX 77030 (Medical area)",98000,MD Anderson Cancer Center,Houston,98000.0
+15155,Research Assistant II - Sarcoma Medical Oncology,"Houston, TX 77030 (Medical area)",34400,MD Anderson Cancer Center,Houston,34400.0
+15157,Institute Senior Research Scientist - Translational In-Vivo...,"Houston, TX 77030 (Medical area)",112000,MD Anderson Cancer Center,Houston,112000.0
+15170,Senior Quality Assurance Analyst (Research),"Houston, TX",56656,Baylor College of Medicine,Houston,56656.0
+15174,Programmer / Analyst II,"Houston, TX",75000,Baylor College of Medicine,Houston,75000.0
+15175,Institute Sr Research Scientist - Flow Cytometry - ECLIPSE,"Houston, TX 77030 (Medical area)",112000,MD Anderson Cancer Center,Houston,112000.0
+15180,Psychologist - Department of Preventive Medicine & Community...,"Houston, TX 77001",90000,UTMB,Houston,90000.0
+15209,Senior Scientific Programmer,"Houston, TX",74500,Baylor College of Medicine,Houston,74500.0
+15220,Visualization Engineer,"Houston, TX",115000,Clearpoint,Houston,115000.0
+15236,Principal Data Scientist,"Houston, TX",110000,Zdaly,Houston,110000.0
+15238,Data Scientist,"Houston, TX",75000,Mercury Data Science,Houston,75000.0
+15242,Core Data Scientist- medical research,"Houston, TX",120000,Protege,Houston,120000.0
+15247,Reserach Tech - Gynecology,"Houston, TX",35000,Baylor College of Medicine,Houston,35000.0
+15252,Environmental Specialist,"Houston, TX",80000,"Professional Environmental Engineers, Inc.",Houston,80000.0
+15255,Recruiter,"Houston, TX",40000,Decide,Houston,40000.0
+15263,BluePrism - Technology Analyst,"Houston, TX",100000,Axius Technologies Inc,Houston,100000.0
+15267,Database & BI Analyst,"Houston, TX 77074 (Bellaire area)",88000,Rekruiters,Houston,88000.0
+15272,C++ Software Engineer,"Houston, TX 77006 (Montrose area)",50000,Rekruiters,Houston,50000.0
+17982,Statistical Data Analyst,"Pittsburgh, PA",30732,The University of Pittsburgh,Pittsburgh,30732.0
+17986,Data Scientist,"Pittsburgh, PA",46644,The University of Pittsburgh,Pittsburgh,46644.0
+18001,Interdisciplinary Supervisor,"South Park, PA",89506,US Department of Labor,Pittsburgh,89506.0
+18004,Data Analyst and Research Project Coordinator,"Pittsburgh, PA",30732,The University of Pittsburgh,Pittsburgh,30732.0
+18009,Research Review Analyst (RRA) - Exempt/Expedited,"Pittsburgh, PA",35100,The University of Pittsburgh,Pittsburgh,35100.0
+18026,Research Project Coordinator,"Pittsburgh, PA",30732,The University of Pittsburgh,Pittsburgh,30732.0
+18029,Research Technician,"Pittsburgh, PA",23868,The University of Pittsburgh,Pittsburgh,23868.0
+18033,Flow Cytometry Technologist,"Pittsburgh, PA",23868,The University of Pittsburgh,Pittsburgh,23868.0
+18034,Computer Engineer,"Pittsburgh, PA",87252,US Department of Energy,Pittsburgh,87252.0
+18046,Laboratory Research Specialist,"Pittsburgh, PA",23868,The University of Pittsburgh,Pittsburgh,23868.0
+18052,University Graduate Hire - Software & QA Engineer (SS&S),"Cranberry Township, PA 16066",88000,NetApp,Pittsburgh,88000.0
+18054,Data Science Software Engineer,"Pittsburgh, PA",95000,Fortive Corporate,Pittsburgh,95000.0
+18102,"Lead Analyst, Data Management Quant Analysis","Pittsburgh, PA",52000,BNY Mellon,Pittsburgh,52000.0
+18104,Mechanical Designer III,"Pittsburgh, PA 15238",60000,Neuro Kinetics Inc.,Pittsburgh,60000.0
+18106,Process Development Scientist,"Pittsburgh, PA",80000,Apex Life Sciences,Pittsburgh,80000.0
+18561,Senior Software Engineer - Machine Learning,"Pittsburgh, PA 15222 (Strip District area)",108000,Petuum,Pittsburgh,108000.0
+18562,Senior Software Engineer - Autonomy,"Warrendale, PA 15086",95000,Neya Systems LLC,Pittsburgh,95000.0
+18563,Senior Software Engineer - Autonomy,"Warrendale, PA",95000,Neya Systems,Pittsburgh,95000.0
+18564,Senior Software Engineer - Natural Language Processing,"Pittsburgh, PA 15222 (Strip District area)",103000,Petuum,Pittsburgh,103000.0
+18565,Senior Staff Software Engineer - Natural Language Processing,"Pittsburgh, PA 15222 (Strip District area)",100000,Petuum,Pittsburgh,100000.0
+18566,Senior Software Engineer - Machine Learning - Infrastructure,"Pittsburgh, PA 15222 (Strip District area)",98000,Petuum,Pittsburgh,98000.0
+18567,Senior Staff Software Engineer - Machine Learning - Workflow,"Pittsburgh, PA 15222 (Strip District area)",105000,Petuum,Pittsburgh,105000.0
+18569,Senior Software Engineer - Machine Learning,"Bridgeville, PA",96000,Oxford Solutions,Pittsburgh,96000.0
+18850,Software Engineering Manager - Workflow,"Pittsburgh, PA 15222 (Strip District area)",117000,Petuum,Pittsburgh,117000.0
+20973,Data Scientist,"Chelsea, MA",60041,Commonwealth of Massachusetts,Boston,60041.0
+21020,"Director I, Data Products - BI","Boston, MA",127801,Liberty Mutual,Boston,127801.0
+21024,Computer Scientist,"Jamaica Plain, MA",96411,US Department of Veterans Affairs,Boston,96411.0
+21040,Application Scientist,"Cambridge, MA 02142 (East Cambridge area)",150000,"CareerEncore, Inc.",Boston,150000.0
+21055,Data Scientist or Senior Data Scientist - Product Technology...,"Boston, MA",102500,Liberty Mutual,Boston,102500.0
+21101,Account Manager,"Boston, MA 02298 (Central area)",45000,Social Fulcrum,Boston,45000.0
+21103,"Senior Data Scientist, Claims Analytics - Global Risk Soluti...","Boston, MA",92000,Liberty Mutual,Boston,92000.0
+21129,"Senior Data Scientist, Product Design & Modeling - Global Re...","Boston, MA",102500,Liberty Mutual,Boston,102500.0
+21131,"PXO Data Scientist, AVP","North Quincy, MA",101000,State Street,Boston,101000.0
+21137,Project Controls Specialist,"Boston, MA",70000,Kleinfelder,Boston,70000.0
+21150,Principal Data Scientist (Deep Learning),"Boston, MA 02116 (South End area)",140000,Jobspring Partners,Boston,140000.0
+21162,Senior Data Scientist (Marketing),"Cambridge, MA",150000,Darwin Recruitment,Boston,150000.0
+21202,Astrophysicist,"Cambridge, MA",81077,U.S. Federal Government,Boston,81077.0
+21233,"Interdisciplinary (Biologist, Toxicologist, Health Scientist...","Concord, MA",96411,US Department of the Army,Boston,96411.0
+21331,Research Analyst II,"Boston, MA",49990,Commonwealth of Massachusetts,Boston,49990.0
+21342,"Data Scientist, Data Center Systems","Andover, MA 01810",92000,Schneider Electric,Boston,92000.0
+21347,Data Scientist,"Waltham, MA",85000,Hitachi Vantara,Boston,85000.0
+21403,"Business Analyst II or Senior Business Analyst, Business Lin...","Boston, MA",74800,Liberty Mutual,Boston,74800.0
+21406,Data Science Infrastructure Engineer,"Somerville, MA",77000,Partners HealthCare(PHS),Boston,77000.0
+21418,Data Engineer,"Cambridge, MA",130000,Jobspring Partners,Boston,130000.0
+21426,"Senior Analyst, Marketing Analytics","Boston, MA",74000,Liberty Mutual,Boston,74000.0
+21452,Junior Quantitative Analyst - Investment Advisory,"Boston, MA 02109 (Central area)",36000,KNF&T Staffing Resources,Boston,36000.0
+21653,IT Specialist (Applications Software),"Cambridge, MA",58330,U.S. Federal Government,Boston,58330.0
+21675,"Director I, Data Science - Global Risk Solutions Predictive...","Boston, MA",128000,Liberty Mutual,Boston,128000.0
+21770,Print Process Engineer,"Somerville, MA",92000,Formlabs,Boston,92000.0
+21775,Front End Web Developer,"Cambridge, MA 02140 (North Cambridge area)",93000,nference,Boston,93000.0
+21796,"Director, Customer Analytics","Boston, MA",145000,Harnham US,Boston,145000.0
+21946,Electronics Engineer,"Cambridge, MA",113929,U.S. Federal Government,Boston,113929.0
+22131,"Senior Product Manager, Personalization Platform","Boston, MA 02116 (South End area)",114000,Wayfair,Boston,114000.0
+22132,"Research Technician - Molecular Biology & Microbiology, Scho...","Boston, MA 02111 (Central area)",27000,TUFTS University,Boston,27000.0
+23642,Senior Investment Credit Research Analyst,"Boston, MA 02116 (South End area)",185000,Fanning Personnel,Boston,185000.0
+24004,Research Scientist I,"Albany, NY",56326,Health Research Incorporated,New+York,56326.0
+24036,Researcher,"New York, NY",62272,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,62272.0
+24040,Bike Share Data Analyst,"Manhattan, NY",52143,New York City DEPARTMENT OF TRANSPORTATION,New+York,52143.0
+24056,Sr. Data Scientist,"New York, NY",135000,MetroPlus Health Plan,New+York,135000.0
+24061,Sr. Data Scientist,"New York, NY",170000,Glocomms,New+York,170000.0
+24065,Data Scientist,"Latham, NY 12110",94000,Underwriters Laboratories,New+York,94000.0
+24067,Analyst | Data Analysis,"Manhattan, NY",43618,New York City OFFICE OF MANAGEMENT & BUDGET,New+York,43618.0
+24078,FAIR FARES INTEGRITY DATA ANALYST,"Manhattan, NY",73305,New York City HRA/DEPT OF SOCIAL SERVICES,New+York,73305.0
+24086,Population Health Scientist,"Queens, NY",78630,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,78630.0
+24096,Data Analyst/Modeler,"Manhattan, NY",70286,New York City DEPARTMENT OF FINANCE,New+York,70286.0
+24107,Research Scientist 1 / EOA# 2018-62,"Staten Island, NY",56604,"People With Developmental Disabilities, Office for",New+York,56604.0
+24117,"Researcher/Data Analyst, Bureau of Mental Health","Queens, NY",70286,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,70286.0
+24124,Data Analyst,"Manhattan, NY",70286,New York City HUMAN RIGHTS COMMISSION,New+York,70286.0
+24145,Data Analyst,"Queens, NY",78630,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,78630.0
+24170,Quantitative Data Scientist,"New York, NY",170000,Harnham US,New+York,170000.0
+24177,"Data Manager, Viral Hepatitis, Bureau of Communicable Diseas...","Queens, NY",59708,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,59708.0
+24211,Senior Assessment Data Analyst,"Manhattan, NY",73305,New York City DEPARTMENT OF FINANCE,New+York,73305.0
+24213,Data Scientist - VP - CIB Treasury Services,"New York, NY 10179 (Midtown area)",125000,JP Morgan Chase,New+York,125000.0
+24218,Research Analyst,"Manhattan, NY",70286,New York City POLICE DEPARTMENT,New+York,70286.0
+24238,Strategic Planning Analyst,"Queens, NY",73305,New York City DEPARTMENT OF CORRECTION,New+York,73305.0
+24240,Project Director,"New York, NY",73305,New York City BOARD OF CORRECTION,New+York,73305.0
+24261,Strategy and Research Analyst,"New York, NY",65000,Center for Employment Opportunities,New+York,65000.0
+24265,Research Scientist - SSIE/WISE - The Research Foundation for...,"Vestal, NY",65000,Research Foundation of SUNY,New+York,65000.0
+24269,Associate Research Scientist - Data Science & Precision Medi,"New York, NY",55000,Research Foundation of The City University of New...,New+York,55000.0
+24306,Water Resources Modeler,"New York, NY",70286,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,70286.0
+24317,Senior Advisor for Intergovernmental Affairs,"Manhattan, NY",54643,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,54643.0
+24335,"Data Analyst for Emerging Medical Conditions, World Trade Ce...","Manhattan, NY",73305,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,73305.0
+24342,Policy Advisor,"Manhattan, NY",70286,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,70286.0
+24354,Program Analytics /Data Analysis Manager,"Bronx, NY",50000,The Osborne Association,New+York,50000.0
+24359,Senior Data Scientist,"New York, NY",160000,Harnham US,New+York,160000.0
+24395,"Special Assistant, Office of the Commissioner","Queens, NY",73305,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,73305.0
+24398,Postdoctoral Associate (R18-05),"Albany, NY",38000,Research Foundation for SUNY,New+York,38000.0
+24413,POLICY and OPERSTIONS RESEARCH | ANALYST,"Manhattan, NY",58162,New York City OFFICE OF MANAGEMENT & BUDGET,New+York,58162.0
+24450,Energy Program Analyst,"Queens, NY",59708,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,59708.0
+24456,"Data Integrity Analyst, Bureau of Mental Health/MH-Assisted...","Queens, NY",70286,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,70286.0
+24458,Bilingual (English/Spanish) Research Analyst,"New York, NY 10020 (Midtown area)",75000,Sumitomo Mitsui Trust Bank,New+York,75000.0
+24473,Senior Analyst,"Manhattan, NY",70286,NYC Administration for Children's Services,New+York,70286.0
+24488,GIS Analyst,"Queens, NY",59708,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,59708.0
+24497,Data Science & Advanced Analytics Senior Associate,"New York, NY",109000,New York Life Insurance Co,New+York,109000.0
+24530,Energy Policy Advisor,"Manhattan, NY",62272,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,62272.0
+24561,Environmental Compliance Specialist,"Manhattan, NY",70286,New York City DEPARTMENT OF TRANSPORTATION,New+York,70286.0
+24587,INSTRUCTIONAL SUPPORT SPECIALIST,"Brooklyn, NY",69000,SUNY Downstate Medical Center,New+York,69000.0
+24590,"Research Scientist, Bureau of Environmental Sciences and Eng...","Queens, NY",78630,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,78630.0
+24632,Flatiron School- Lead Data Science Instructor,"New York, NY 10004 (Financial District area)",118000,WeWork,New+York,118000.0
+24634,"Core Data Science, PhD University Grad","New York, NY",113000,Facebook,New+York,113000.0
+24635,Mid-Level Data Engineer at Machine Learning/AI Company,"New York, NY",100000,Jobspring Partners,New+York,100000.0
+24638,Director of Research,"New York, NY",91455,New York City HOUSING PRESERVATION & DVLPMNT,New+York,91455.0
+24641,Senior Analyst,"Manhattan, NY",70286,New York City ADMIN FOR CHILDREN'S SVCS,New+York,70286.0
+24648,"Surveillance Informatics Coordinator, Bureau of Sexually Tra...","Queens, NY",73305,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,73305.0
+24654,Director of Data Analytics,"Queens, NY",60435,New York City DEPT OF DESIGN & CONSTRUCTION,New+York,60435.0
+24665,Postdoctoral Research Scientist in Biomedical Data Science,"New York, NY",48000,Research Foundation of The City University of New...,New+York,48000.0
+24677,"Surveillance Analyst, Bureau of Communicable Diseases","Queens, NY",70286,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,70286.0
+24681,"Interoperability Specialist, Bureau of Immunization","Queens, NY",70286,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,70286.0
+24700,"Monitoring and Evaluation Analyst for ThriveNYC, Bureau of E...","Queens, NY",78630,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,78630.0
+24715,"Data Linkage Research Manager, Bureau of Epidemiology Servic...","Queens, NY",78630,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,78630.0
+24716,POLICY AND OPERATIONS RESEARCH | ANALYST,"Manhattan, NY",58162,New York City OFFICE OF MANAGEMENT & BUDGET,New+York,58162.0
+24740,"EtE Evaluation Specialist, Bureau of HIV/AIDS Prevention and...","Queens, NY",62272,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,62272.0
+24771,"Adolescent Coordinator, Bureau of Immunization","Queens, NY",70286,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,70286.0
+24781,"Technical Assistance Specialist, Bureau of Alcohol and Drug...","Queens, NY",59708,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,59708.0
+24793,"Program Systems Coordinator, Bureau of HIV/AIDS Prevention a...","Queens, NY",82008,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,82008.0
+24803,"CRBN Specialist, Environmental Health Administration","Manhattan, NY",73305,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,73305.0
+24826,"Policy Advisor, Building Energy Efficiency Programs","Manhattan, NY",59708,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,59708.0
+24828,"Provider and Jurisdictional Liaison, Bureau of HIV/AIDS Prev...","Queens, NY",53857,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,53857.0
+24838,Client Support Services Manager,"New York, NY",90000,The City University of New York (CUNY),New+York,90000.0
+24873,"Operations Analyst, Relay, Bureau of Alcohol and Drug Use Pr...","Queens, NY",59708,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,59708.0
+24892,Senior Research Analyst – Access and Success,"New York, NY",72000,Research Foundation of The City University of New...,New+York,72000.0
+24894,"Evaluation Coordinator, New York City Teens Connection, Bron...","Bronx, NY",59708,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,59708.0
+24910,"Deputy Chief, Industrial Pollution Prevention Unit","Manhattan, NY",61324,New York City DEPT OF ENVIRONMENT PROTECTION,New+York,61324.0
+24937,"Senior Program Evaluator, Brooklyn Neighborhood Health Actio...","Brooklyn, NY",78630,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,78630.0
+24953,"Chief of Mycobacteriology, Bureau of the Public Health Labor...","Manhattan, NY",90084,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,90084.0
+24954,"Senior Advisor, Connections to Care, Bureau of Systems Stren...","Queens, NY",70286,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,70286.0
+24956,"Director of Collaboration & Outreach, Disease Control","Queens, NY",78630,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,78630.0
+24968,"Senior Director, Office of Learning and Improvement","Queens, NY",87768,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,87768.0
+24970,"Field Research Associate, Bureau of Alcohol and Drug Use Pre...","Queens, NY",59708,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,59708.0
+24973,"Influenza Surveillance Coordinator, Bureau of Communicable D...","Queens, NY",87768,New York City DEPT OF HEALTH/MENTAL HYGIENE,New+York,87768.0
+25161,SWE - Intern - Engineer,"Malta, NY",76000,GLOBALFOUNDRIES,New+York,76000.0
+25165,UX/Product Writer,"New York, NY",81000,The New York Times,New+York,81000.0
+25905,Data Scientist & Engineer,"New York, NY",109000,Payette Group,New+York,109000.0
+27016,Student Intern,"San Jose, CA",26063,US Department of Commerce,"San Jose, CA",26063.0
+27020,NLP Data Scientist,"Palo Alto, CA 94304",99000,"PARC, a Xerox company","San Jose, CA",99000.0
+27021,Data Scientist,"San Jose, CA 95124 (Cambrian Park area)",139000,Xilinx,"San Jose, CA",139000.0
+27023,Movidius Deep Learning Data Scientist,"Santa Clara, CA 95054",116000,Intel,"San Jose, CA",116000.0
+27024,HEOR Data Scientist – Project Management,"Sunnyvale, CA",95000,Intuitive Surgical,"San Jose, CA",95000.0
+27025,Data Scientist,"Redwood City, CA",108000,BlueVine,"San Jose, CA",108000.0
+27026,Data Scientist,"San Jose, CA 95110 (Downtown area)",116000,Nutanix,"San Jose, CA",116000.0
+27027,"Data Scientist, Blockchain","Menlo Park, CA",132000,Facebook,"San Jose, CA",132000.0
+27028,Data Scientist,"San Jose, CA",112000,Sage Intacct,"San Jose, CA",112000.0
+27029,"Auction and Delivery Data Scientist, Marketing Science - Uni...","Menlo Park, CA",98000,Facebook,"San Jose, CA",98000.0
+27062,Data Scientist,"Cupertino, CA",175000,Workbridge Associates,"San Jose, CA",175000.0
+27112,Data Scientist,"Palo Alto, CA",118000,Nauto,"San Jose, CA",118000.0
+27116,Geospatial Data Scientist - Space System,"Mountain View, CA",110000,Riverside Research,"San Jose, CA",110000.0
+27117,Data Scientist,"San Jose, CA",128000,Connexions Data Inc,"San Jose, CA",128000.0
+27119,Principal Data Scientist,"Mountain View, CA",160000,Workbridge Associates,"San Jose, CA",160000.0
+27239,Senior Data Scientist,"San Jose, CA 95113 (Downtown area)",200000,Workbridge Associates,"San Jose, CA",200000.0
+27240,Intern Mechanical Engineer,"San Jose, CA 95134 (North San Jose area)",48000,Thermo Fisher Scientific,"San Jose, CA",48000.0
+27243,"Data Scientist, Analytics - Product Quality","Menlo Park, CA",122000,Facebook,"San Jose, CA",122000.0
+27244,"Data Scientist, Analytics - Product Navigation","Menlo Park, CA",118000,Facebook,"San Jose, CA",118000.0
+27248,Data Scientist III,"Scotts Valley, CA",76000,Central California Alliance for Health,"San Jose, CA",76000.0
+27256,RESEARCH ANALYST II,"San Jose, CA 95113 (Downtown area)",73315,San Jose/Evergreen Community College District,"San Jose, CA",73315.0
+27259,Principal Data Scientist,"Palo Alto, CA",180000,Harnham US,"San Jose, CA",180000.0
+27262,Senior Machine Learning Data Scientist,"Mountain View, CA",160000,Jobspring Partners,"San Jose, CA",160000.0
+27383,Staff Data Scientist,"Pleasanton, CA",170000,Workbridge Associates,"San Jose, CA",170000.0
+27450,"Physical Science Technician, GS-1311-09/11 (DEU-YMJ)","Menlo Park, CA",61084,US Department of the Interior,"San Jose, CA",61084.0
+27545,Research Scientist - Security,"Mountain View, CA",160000,Jobspring Partners,"San Jose, CA",160000.0
+27697,Director of Security,"Mountain View, CA",200000,Jobspring Partners,"San Jose, CA",200000.0
+27773,Scientist/Senior Scientist – Protein Engineering,"Menlo Park, CA",92000,3T Biosciences,"San Jose, CA",92000.0
+27874,"Postdoctoral Research Scientist, Cyber-Physical Systems Secu...","Palo Alto, CA 94304",70000,"PARC, a Xerox company","San Jose, CA",70000.0
+28160,Software Engineer - Front End,"Sunnyvale, CA",90000,Walmart Stores,"San Jose, CA",90000.0
+28161,"Senior Manager, Software Engineering & Data Science","Sunnyvale, CA",127000,Walmart Stores,"San Jose, CA",127000.0
+28166,Expert Software Engineer,"Sunnyvale, CA",93000,Walmart eCommerce,"San Jose, CA",93000.0
+28167,"Staff Software Engineer, Mobile","Sunnyvale, CA",112000,Walmart Stores,"San Jose, CA",112000.0
+28168,Staff Software Engineer - VUDU,"Sunnyvale, CA",96000,Walmart Stores,"San Jose, CA",96000.0
+28169,Manufacturing Engineer Operations,"Hayward, CA",75000,Proteus Digital Health,"San Jose, CA",75000.0
+28403,Front End Developer,"Sunnyvale, CA",80000,Oath Inc,"San Jose, CA",80000.0
+28407,NVIDIA GPU Cloud Infrastructure – Server Engineer,"Santa Clara, CA",111000,NVIDIA,"San Jose, CA",111000.0
+28408,MTS 2 - Software Engineer,"San Jose, CA",117000,Paypal,"San Jose, CA",117000.0
+28409,"Manager of Data Science, Consumer Analytics","Santa Clara, CA 95054",102000,Chegg,"San Jose, CA",102000.0
+29971,Data Scientist,"Washington, DC",67968,Central Intelligence Agency,"Washington, DC",67968.0
+29973,Data Scientist - Entry to Experienced Level,"Fort Meade, MD",96970,National Security Agency,"Washington, DC",96970.0
+29976,OSSE: Data Analysis Manager,"Washington, DC",104702,Government of the District of Columbia,"Washington, DC",104702.0
+29977,Data Scientist,"Washington, DC",67968,U.S. Federal Government,"Washington, DC",67968.0
+29979,Data Scientist,"McLean, VA 22102",60000,Piper Companies,"Washington, DC",60000.0
+29988,Post-Doctoral Scientist,"Foggy Bottom, DC",51238,George Washington University,"Washington, DC",51238.0
+29989,Supervisory Health Scientist,"Hyattsville, MD",134789,CDC,"Washington, DC",134789.0
+30000,Computer Scientist (Informatics),"Hyattsville, MD",76015,CDC,"Washington, DC",76015.0
+30012,"Physical Scientist, AST, Earth Sciences Remote Sensing","Washington, DC",114590,US National Aeronautics and Space Administration,"Washington, DC",114590.0
+30028,Postdoctoral Scientist,"Foggy Bottom, DC",51238,George Washington University,"Washington, DC",51238.0
+30083,Data Scientist,"Bethesda, MD",120000,Jobspring Partners,"Washington, DC",120000.0
+30090,University - Data Scientist Consultant,"Washington, DC",98000,Booz Allen Hamilton,"Washington, DC",98000.0
+30094,Data Scientist,"Washington, DC",92000,Cerebri AI,"Washington, DC",92000.0
+30095,Operations Research Analyst/Data Scientist Manager,"Washington, DC",105000,Booz Allen Hamilton,"Washington, DC",105000.0
+30097,Behavioral Scientist (Program Director),"Alexandria, VA",139282,U.S. Federal Government,"Washington, DC",139282.0
+30099,Data Scientist / Sr. Data Scientist,"Washington, DC",94000,Visa,"Washington, DC",94000.0
+30113,Applied Social Scientist - Experienced Level,"Fort Meade, MD",96970,National Security Agency,"Washington, DC",96970.0
+30121,"Research Space Scientist, AST, Planetary Studies","Greenbelt, MD",114590,US National Aeronautics and Space Administration,"Washington, DC",114590.0
+30136,"Physical Scientist, ZP-1301-III/IV","Gaithersburg, MD",68036,US Department of Commerce,"Washington, DC",68036.0
+30140,Cryptanalytic Computer Scientist - Entry/Mid-Level,"Fort Meade, MD",69545,National Security Agency,"Washington, DC",69545.0
+30159,Biologist/Toxicologist,"Washington, DC",81548,U.S. Federal Government,"Washington, DC",81548.0
+30174,"Research Scientist, Reproductive Health & Family Formation","Bethesda, MD 20814",80500,Child Trends,"Washington, DC",80500.0
+30201,Research Analyst - RHFF,"Bethesda, MD 20814",54500,Child Trends,"Washington, DC",54500.0
+30215,"Physical Scientist, AST, Science Program Management","Washington, DC",114590,US National Aeronautics and Space Administration,"Washington, DC",114590.0
+30239,"Lead Physical Scientist, GS-1301-14 (DE/CR)","Silver Spring, MD",114590,US Department of Commerce,"Washington, DC",114590.0
+30250,Senior Data Scientist: Product Owner,"Washington, DC",120000,Jobspring Partners,"Washington, DC",120000.0
+30257,Social Science Research Analyst,"Bethesda, MD",96970,US Department of Health And Human Services,"Washington, DC",96970.0
+30263,Mathematician - Entry/Mid-Level,"Fort Meade, MD",69545,National Security Agency,"Washington, DC",69545.0
+30272,General Engineer,"Washington, DC 20004 (Downtown area)",134789,US Department of Energy,"Washington, DC",134789.0
+30296,Microbiologist,"Beltsville, MD",56223,US Department of Agriculture,"Washington, DC",56223.0
+30314,Data Scientist - TS/SCI Required,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",79000,Deloitte,"Washington, DC",79000.0
+30319,Data Scientist - Sr.,"Reston, VA",103000,Radiant Solutions,"Washington, DC",103000.0
+30413,Sr. GIS Administrator,"Silver Spring, MD 20904",70000,Zachary Piper Solutions,"Washington, DC",70000.0
+30424,Operations Research Analyst,"Fort Meade, MD",81548,US Department of Defense,"Washington, DC",81548.0
+30430,Mathematical Statistician - Entry/Mid-Level,"Fort Meade, MD",69545,National Security Agency,"Washington, DC",69545.0
+30450,"Research Data Scientist, Senior","Alexandria, VA",117000,Booz Allen Hamilton,"Washington, DC",117000.0
+30451,Systems Analyst / Data Scientist,"Laurel, MD 20708",87000,Johns Hopkins Applied Physics Laboratory (APL),"Washington, DC",87000.0
+30452,Data Scientist - Secret Clearance Required,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",77000,Deloitte,"Washington, DC",77000.0
+30458,Computer Systems Researcher - Entry to Experienced Level,"Fort Meade, MD",69545,National Security Agency,"Washington, DC",69545.0
+30481,Physical Science Administrator (Program Director),"Alexandria, VA",139282,U.S. Federal Government,"Washington, DC",139282.0
+30509,Interdisciplinary Engineer,"Silver Spring, MD",57015,US Department of Health And Human Services,"Washington, DC",57015.0
+30522,"Data Scientist/Software Engineer - Arlington, VA","Arlington, VA 22203 (Bluemont area)",98000,Systems & Technology Research,"Washington, DC",98000.0
+30524,Data Scientist (Journeyman),"Springfield, VA",83000,Obsidian Solutions Group,"Washington, DC",83000.0
+30535,"Director, Earth Science Division","Washington, DC",126148,US National Aeronautics and Space Administration,"Washington, DC",126148.0
+30631,Senior Product Manager,"Washington, DC",89000,Optoro,"Washington, DC",89000.0
+30634,Data Scientist- Journeyman,"Springfield, VA",91000,"Syntelligent Analytic Solutions, LLC","Washington, DC",91000.0
+30733,"Data Science Database Analyst, Mid","Alexandria, VA",94000,Booz Allen Hamilton,"Washington, DC",94000.0
+30734,"Software Engineer, Data Operations (Survey)","Reston, VA",81000,Resonate,"Washington, DC",81000.0
+30772,Apps Developer,"Washington, DC",67968,Central Intelligence Agency,"Washington, DC",67968.0
+30778,Senior Product Owner - Data Science Product,"Washington, DC",150000,Jobspring Partners,"Washington, DC",150000.0
+30878,Supervisory Research Plant Physiologist/Molecular Biologist...,"Beltsville, MD",114590,US Department of Agriculture,"Washington, DC",114590.0
+30884,Secret Cleared Sr. GIS Analyst,"Silver Spring, MD 20904",70000,Zachary Piper Solutions,"Washington, DC",70000.0
+30954,Aviation Systems Analyst,"McLean, VA",73000,Mitre Corporation,"Washington, DC",73000.0
+30955,Civil Environmental Engineer,"Washington, DC",78000,"PEER Consultants, P.C.","Washington, DC",78000.0
+30957,Clinical Research Program Analyst - Finance,"Silver Spring, MD",78000,General Dynamics Information Technology,"Washington, DC",78000.0
+30959,Information Technology Scientist,"Chantilly, VA 20151",78000,ManTech International Corporation,"Washington, DC",78000.0
+31106,Systems Engineer,"Herndon, VA",85000,Novetta,"Washington, DC",85000.0
+31107,Data Scientist: Anomaly Detection - FS Poly,"Fort Meade, MD",123000,stanleyreid,"Washington, DC",123000.0
+31108,Data Scientist: NLP - FS Poly,"Fort Meade, MD",123000,stanleyreid,"Washington, DC",123000.0
+31114,Operations Research Systems Analyst,"Arlington, VA 22209 (Radnor-Ft Myer Heights area)",69000,"Quantum Research International, Inc.","Washington, DC",69000.0
+31116,Data Scientist SME,"McLean, VA",94000,"SkyePoint Decisions, Inc.","Washington, DC",94000.0
+32709,Backend Developer,"College Park, MD",96000,Dynamo Technologies,"Washington, DC",96000.0
+33010,"Manager, Data Scientist","Austin, TX 73301 (St Edwards area)",112000,KPMG,Austin,112000.0
+33017,"Data Scientist, Lead","Austin, TX",93000,Booz Allen Hamilton,Austin,93000.0
+33192,Certifying Scientist / Method Development,"Austin, TX",65000,Lighthouse Lab Services,Austin,65000.0
+33196,Senior Scientist ( Product ),"Austin, TX",100000,Valkyrie Intelligence,Austin,100000.0
+33254,Senior Machine Learning/Computer Vision Software Engineer,"Austin, TX",125000,HireNetworks,Austin,125000.0
+33316,Full Stack Software Engineer,"Austin, TX 78731",96000,Indeed,Austin,96000.0
+33319,Software Engineer,"Austin, TX",110000,JASON INCORPORATED,Austin,110000.0
+33321,Senior Server Software Engineer - Machine Vision,"Austin, TX 78759 (Arboretum area)",110000,SparkCognition,Austin,110000.0
+33322,Senior Software Engineer - Financial Services,"Austin, TX 78759 (Arboretum area)",115000,SparkCognition,Austin,115000.0
+35998,Staff Biostatistician 1 (Research Associate),"Portland, OR",60000,Oregon Health & Science University,Portland,60000.0
+36023,Senior Research Assistant,"Portland, OR",35034,Oregon Health & Science University,Portland,35034.0
+36094,Business Analyst,"Portland, OR 97204 (Downtown area)",57000,Sitka Technology Group,Portland,57000.0
+36125,Senior Software Developer,"Portland, OR 97209 (Pearl District area)",120000,"NauWork, LLC",Portland,120000.0
+36126,Senior Software Engineer,"Portland, OR 97209 (Pearl District area)",135000,"NauWork, LLC",Portland,135000.0
+36299,"Software Engineer, Full Stack (Portland)","Portland, OR",96000,Airbnb,Portland,96000.0
+38956,Research & Data Analyst (Long Term Temporary),"Tukwila, WA",55000,King County Housing Authority,Seattle,55000.0
+38998,CONTRACT - Data Scientist (NTD),"Redmond, WA",84000,Nintendo of America Inc.,Seattle,84000.0
+39000,Data Scientist - Verticals,"Seattle, WA 98101 (Downtown area)",109000,Uber,Seattle,109000.0
+39003,Fish Production Scientist I,"Auburn, WA",56742,Muckleshoot Indian Tribe,Seattle,56742.0
+39005,Intern Data Scientist,"Seattle, WA",100000,"ExtraHop Networks, Inc.",Seattle,100000.0
+39006,"Data Scientist, Marketing Science R&D","Seattle, WA",104000,Facebook,Seattle,104000.0
+39065,Quantitative Fisheries Scientist,"Auburn, WA",72552,Muckleshoot Indian Tribe,Seattle,72552.0
+39069,Lead Fisheries Habitat Scientist,"Auburn, WA",92764,Muckleshoot Indian Tribe,Seattle,92764.0
+39112,"Senior Data Scientist, Pricing Sophistication - Product Desi...","Seattle, WA",92000,Liberty Mutual,Seattle,92000.0
+39118,Head Data Scientist,"Seattle, WA",200000,All-In Analytics,Seattle,200000.0
+39123,"Senior Data Scientist, Product Design & Modeling - Global Re...","Seattle, WA",102500,Liberty Mutual,Seattle,102500.0
+39135,"Senior Bioinformatician, Data Sciences","Seattle, WA",90000,"PreCyte, Inc.",Seattle,90000.0
+39156,Lead Data Scientist,"Seattle, WA",170000,All-In Analytics,Seattle,170000.0
+39223,"Research Technician I, Evolution of Antiviral Defenses","Seattle, WA 98109 (Westlake area)",32000,Fred Hutchinson Cancer Research Center,Seattle,32000.0
+39226,Machine Repair Mechanic A,"Everett, WA 98204 (Holly area)",40000,BOEING,Seattle,40000.0
+39231,Data Scientist,"Seattle, WA",114000,Ross-Carlisle Group,Seattle,114000.0
+39298,"Director, Data Scientist, NLP","Seattle, WA 98101 (Downtown area)",83000,KPMG,Seattle,83000.0
+39309,"Business Analyst II or Senior Business Analyst, Business Lin...","Seattle, WA",74800,Liberty Mutual,Seattle,74800.0
+39415,Software Development Engineer- Data Science,"Seattle, WA 98101 (Downtown area)",100000,Zillow Group,Seattle,100000.0
+39439,Regional Wetland Specialist (Environmental Specialist 4),"Bellevue, WA",52536,State of Washington Dept. of Ecology,Seattle,52536.0
+39566,"DIVISION TECHNICAL DIRECTOR, NAVAL UNDERSEA WARFARE CENTER D...","Keyport, WA",126148,US Department of the Navy,Seattle,126148.0
+39618,"Backend Engineer, GrabExpress","Bellevue, WA",108000,Grab Taxi,Seattle,108000.0
+39619,Zillow Offers - Software Development Engineer,"Seattle, WA 98101 (Downtown area)",116000,Zillow Group,Seattle,116000.0
+39621,"Software Development Engineer, Bioinformatics","Seattle, WA 98109 (Westlake area)",85000,Fred Hutchinson Cancer Research Center,Seattle,85000.0
+39624,"Software Development Engineer, Developer Infrastructure","Seattle, WA 98101 (Downtown area)",103000,Zillow Group,Seattle,103000.0
+39627,Software Engineer II - Machine Learning,"Redmond, WA",85000,Microsoft,Seattle,85000.0
+39638,Staff Software Engineer,"Tacoma, WA",97000,Infoblox,Seattle,97000.0
+39773,Data Scientist / Statistician,"Seattle, WA 98103 (Green Lake - Wallingford area)",85000,Kids on 45th,Seattle,85000.0
+39783,Machine Learning/Data Scientist,"Seattle, WA",200000,Gradient.io,Seattle,200000.0
+39788,Quantitative Trading Community Support,"Seattle, WA",45000,QuantConnect,Seattle,45000.0
+39806,018 Data / ETL Engineer II,"Seattle, WA",105000,Dataspace,Seattle,105000.0
+39812,Senior Computational Linguist,"Seattle, WA",180000,R2 Global AI,Seattle,180000.0
+39832,Biostatistician,"Seattle, WA 98121 (Belltown area)",80000,Axio Research LLC,Seattle,80000.0
+39849,SQL Developer/BI/Data engieer - Cosmos/ Scope,"Redmond, WA",79000,HCL Technologies,Seattle,79000.0
+39851,Accountant,"Seattle, WA 98121 (Belltown area)",43000,Sage Bionetworks,Seattle,43000.0
+39853,Data Scientist needed in Seattle - Up to $230K DOE,"Seattle, WA",114000,Career Movement,Seattle,114000.0
+39868,Talent Advisor (Recruiter),"Seattle, WA",85000,TalentReach,Seattle,85000.0
+39869,"Ecommerce Account Manager, Amazon.com Accounts","Bellevue, WA 98007 (Lake Hills area)",50000,Philip J. Boren Inc.,Seattle,50000.0
+39901,Statistical Learning Programmer (Statistical Genetics),"Seattle, WA 98121 (Belltown area)",60000,Axio Research LLC,Seattle,60000.0
+39919,UI/UX Developer,"Redmond, WA",115000,BiSoft,Seattle,115000.0
+39923,Sr. Statistical Programmer,"Seattle, WA 98121 (Belltown area)",80000,Axio Research LLC,Seattle,80000.0
+39979,Senior Backend Engineer - Distributed Systems,"Seattle, WA",180000,Gradient.io,Seattle,180000.0
+40308,Sr. Product Manager - R184255-1,"Bellevue, WA",84000,Collaborative Vision LLC,Seattle,84000.0
+40309,Systems Engineer-Bioinformatics,"Seattle, WA 98121 (Belltown area)",103000,Sage Bionetworks,Seattle,103000.0
+40310,Front End Software Engineer,"Seattle, WA",100000,Indeed,Seattle,100000.0
+40313,Back End Software Engineer,"Seattle, WA",100000,Indeed,Seattle,100000.0
+40314,Senior Software Engineer,"Seattle, WA",103000,Invitae,Seattle,103000.0
+40316,Senior Software Engineer - Data Science Infrastructure,"Seattle, WA",118000,Sift Science,Seattle,118000.0
+41976,Data Scientist (IoT),"Chicago, IL",125000,Jobspring Partners,Chicago,125000.0
+42025,"Senior Level Data Scientist (NLP, Deep Learning)","Chicago, IL",110000,Workbridge Associates,Chicago,110000.0
+42098,"Manager, Data Scientist, NLP","Chicago, IL 60290 (Loop area)",76000,KPMG,Chicago,76000.0
+42099,Manager - Cognitive Data Scientist Natural Language Processi...,"Chicago, IL 60290 (Loop area)",90000,KPMG,Chicago,90000.0
+42105,Data Scientist,"Chicago, IL",115000,Solving IT,Chicago,115000.0
+42107,Data Scientist,"Chicago, IL",88000,Klein Hersh International,Chicago,88000.0
+42119,"Senior Data Scientist (Deep Learning, NLP, Computer Vision)","Chicago, IL",110000,Workbridge Associates,Chicago,110000.0
+42120,Machine Learning - Feature Engineer - GPShopper (L09),"Chicago, IL",52000,Synchrony,Chicago,52000.0
+42186,Data Engineer (Downtown),"Chicago, IL",100000,Jobspring Partners,Chicago,100000.0
+42200,Experienced Data Engineer (Health tech),"Chicago, IL",95000,Jobspring Partners,Chicago,95000.0
+42229,Data Science Manager,"Chicago, IL 60603 (Loop area)",104000,The Marketing Store,Chicago,104000.0
+42268,Postdoctoral Researcher,"Lemont, IL",43000,Argonne National Laboratory,Chicago,43000.0
+42272,Business Intelligence Developer-Healthcare,"Downers Grove, IL 60515",63000,Dupage Medical Group,Chicago,63000.0
+42298,Senior Data Engineer (Health-tech),"Chicago, IL",115000,Jobspring Partners,Chicago,115000.0
+42337,Machine Learning Engineer,"Chicago, IL",80000,Jobspring Partners,Chicago,80000.0
+42361,Lead Business Analyst,"Chicago, IL",100000,Jobspring Partners,Chicago,100000.0
+42424,"Mid to Senior Data Engineer (Healthcare, Insurance, Finance)","Chicago, IL",90000,Jobspring Partners,Chicago,90000.0
+42473,Research Analyst,"Chicago, IL",50000,Illinois Criminal Justice Information Authority,Chicago,50000.0
+42477,Quantitative Analyst - Marketing,"Chicago, IL",50000,Bartesian,Chicago,50000.0
+42497,Organic Scientist,"Chicago, IL",80000,Germer International,Chicago,80000.0
+42501,Beverage Technician,"Niles, IL 60714",40000,Imbibe,Chicago,40000.0
+42502,Data Scientist,"Chicago, IL 60603 (Loop area)",120000,Porcaro Stolarek Mete Partners LLC,Chicago,120000.0
+42518,Customer Success Engineer | Data Science Software,"Chicago, IL",82000,Displayr,Chicago,82000.0
+42521,Data Support Analyst - Entry-Level - Technology Startup,"Chicago, IL",38000,Enterprise Peak,Chicago,38000.0
+42522,Data Science Engineer - Machine Learning,"Chicago, IL 60290 (Loop area)",95000,H5,Chicago,95000.0
+42523,Data Scientist - Marketing Performance,"Chicago, IL",85000,Northpointe Staffing,Chicago,85000.0
+42540,Statistical Modeler,"Chicago, IL",90000,Smith Hanley Associates,Chicago,90000.0
+42547,UI/UX Product Designer,"Chicago, IL",60000,Twine,Chicago,60000.0
+42554,Lead Data Science Instructor,"Chicago, IL",93000,General Assembly,Chicago,93000.0
+42556,Software Developer - Parallel Works,"Chicago, IL",97000,1871,Chicago,97000.0
+42557,Data Analytics Manager,"Chicago, IL 60603 (Loop area)",150000,Porcaro Stolarek Mete Partners LLC,Chicago,150000.0
+42564,Senior Statistical Analyst,"Chicago, IL",85000,Smith Hanley Associates,Chicago,85000.0
+42582,Senior DBA,"Chicago, IL",90000,CultureFit,Chicago,90000.0
+42875,"Software Architect, Emerging Technologies-Full Stack (Chicag...","Chicago, IL",83000,Pandera Systems,Chicago,83000.0
+42876,Front-end Engineer,"Chicago, IL",96000,Enterprise Peak,Chicago,96000.0
+42877,Senior DataOps Engineer,"Chicago, IL",119000,Glassdoor,Chicago,119000.0
+42878,AWS DevOps Engineer,"Chicago, IL",96000,Enterprise Peak,Chicago,96000.0
+42879,Senior Software Engineer - Platform Team,"Chicago, IL 60654 (Loop area)",111000,Fooda,Chicago,111000.0
+42880,Senior Software Engineer,"Chicago, IL 60654 (Loop area)",100000,Tempus,Chicago,100000.0
+42882,Senior Full Stack Javascript Engineer,"Chicago, IL 60654 (Loop area)",97000,Tempus,Chicago,97000.0
+42884,Senior Scala Developer - Cloud Computing,"Chicago, IL",114000,Enterprise Peak,Chicago,114000.0
+45009,Research Assistant I,"Richardson, TX",28953,University of Texas at Dallas,Dallas,28953.0
+45063,"Principal Data Scientist (Python, Hadoop, Azure, Java) | $15...","Dallas, TX",150000,Workbridge Associates,Dallas,150000.0
+45148,Senior Software Engineer,"Plano, TX 75086",106000,Capital One,Dallas,106000.0
+45149,Lead Java Developer (Dealer),"Plano, TX 75086",103000,Capital One,Dallas,103000.0
+45156,Manager of Data Analysis and Research,"Dallas, TX 75209 (Bluffview area)",48000,Prospect Direct,Dallas,48000.0
+45162,Big Data Scientist,"Irving, TX",112340,Virtue Analytics,Dallas,112340.0
+45182,Sales Leads Generation - Research Analyst,"Dallas, TX",45000,OEM Electrical Power Equipment Manufacturer,Dallas,45000.0
+45193,BluePrism - Technology Analyst,"Dallas, TX",100000,Axius Technologies Inc,Dallas,100000.0
+45194,Sr. Quantitative Analyst,"Irving, TX",125000,Digital Intelligence Systems (DISYS),Dallas,125000.0
+45196,"Software Engineer, Machine Learning","Dallas, TX",77000,XiByte,Dallas,77000.0
+45204,"JavaScript Developer – AngularJS, Machine Learning, New Prod...","Dallas, TX 75252 (Far North area)",90000,"Riccione Resources, Inc",Dallas,90000.0
+45205,Staff Software Engineer – Big Data Platform,"Dallas, TX",100000,Sam's Club,Dallas,100000.0
+45206,Azure Infrastructure Architect,"Dallas-Fort Worth, TX",108000,Quisitive,Dallas,108000.0
+45207,UI ENGINEER,"Dallas, TX",86000,M Science,Dallas,86000.0
+45208,SOFTWARE ENGINEER,"Dallas, TX",97000,M Science,Dallas,97000.0
+45210,Solutions Architect,"Dallas, TX",150000,Rekruiters,Dallas,150000.0
+45211,"Sr. Software Engineer – Java, Machine Learning, Data Visuali...","Addison, TX",100000,"Riccione Resources, Inc",Dallas,100000.0
+45212,Machine Learning Technical Lead,"Richardson, TX",97000,Bhuvi IT Solutions Inc,Dallas,97000.0
+45218,"Sr. JavaScript Developer – Team Lead, Angular, Machine Learn...","Dallas, TX 75252 (Far North area)",90000,"Riccione Resources, Inc",Dallas,90000.0
+45219,"Software Engineer – Mid or Senior, Server Side, Java, Micros...","Dallas, TX 75252 (Far North area)",90000,"Riccione Resources, Inc",Dallas,90000.0
+45306,Senior Full Stack Engineer,"Dallas, TX",99000,Givelify,Dallas,99000.0
+47938,Research Scientist - TEAF,"Miami, FL",55000,Florida International University,Miami,55000.0
+47944,Scientist,"Coral Gables, FL",77600,University of Miami,Miami,77600.0
+47961,"Director, Atlantic Oceanographic Meteorological Laboratory","Miami, FL",126148,US Department of Commerce,Miami,126148.0
+47974,Temporary Sr. Research Analyst,"Coral Gables, FL",72000,University of Miami,Miami,72000.0
+47984,Research Analyst / SAS Programmer,"Coral Gables, FL",32900,University of Miami,Miami,32900.0
+47986,Senior Research Associate 1,"Coral Gables, FL",32900,University of Miami,Miami,32900.0
+47990,Sr. Research Financial Analyst,"Coral Gables, FL",40000,University of Miami,Miami,40000.0
+48013,Quality Analytics Manager,"Plantation, FL",80000,3coast,Miami,80000.0
+48027,Solution Advisor | Professional Services Consultant,"Fort Lauderdale, FL",60000,Wyzoo,Miami,60000.0
+48038,Machine Learning Sr Engineer,"Miami, FL",100000,SmartHop,Miami,100000.0
+48384,Data Scientist- Predictive,"Miami, FL",108000,Focus GTS,Miami,108000.0
+48385,Data Scientist,"Miami, FL 33178",96000,"V-Soft Consulting Group, Inc.",Miami,96000.0
+50920,Jr. Data Scientist - Machine Learning,"Atlanta, GA 30342 (Buckhead area)",70000,Elev8 Hire Solutions,Atlanta,70000.0
+50947,Epidemiologist,"Atlanta, GA 30341",77058,CDC,Atlanta,77058.0
+50984,Delivery Architect - Applied Data Scientist,"Atlanta, GA",102000,Capgemini,Atlanta,102000.0
+50990,MGR DATA SCIENCE AND ANALYTICS,"Atlanta, GA",100000,The Home Depot,Atlanta,100000.0
+51000,BIOLOGIST (FORENSIC EXAMINER),"Fort Gillem, GA",53137,US Department of the Army,Atlanta,53137.0
+51015,"The Carter Center: Prospect Research Analyst, Development, M...","Atlanta, GA",40300,Emory University,Atlanta,40300.0
+51234,Engineering Data Scientist for IoT/AI Analytics Platform,"Atlanta, GA",60000,"DecisionIQ, Inc.",Atlanta,60000.0
+51236,Business Research Analyst - Entry Level,"Norcross, GA",30000,CI Radar,Atlanta,30000.0
+51239,"Data Scientist Information technology (IT) California ,","Atlanta, GA",110000,Salesbox,Atlanta,110000.0
+51274,Senior Fullstack AI Developer,"Alpharetta, GA",100000,AGM Tech Solutions,Atlanta,100000.0
+51284,Civil Engineer,"Atlanta, GA",80000,"Futures Consulting, LLC",Atlanta,80000.0
+51775,Senior Software Engineer,"Atlanta, GA 30318 (Rockdale area)",100000,Harmony,Atlanta,100000.0
+51779,Lead Full Stack Developer,"Atlanta, GA 30342 (Buckhead area)",89000,GreenSky,Atlanta,89000.0
+53910,Data Wrangler,"Los Angeles, CA",58245,USC,Los+Angeles,58245.0
+53921,Senior Flavor Scientist,"Pacific Palisades, CA 90272",60000,Fluid Manufacturing,Los+Angeles,60000.0
+53928,Physical Scientist,"Los Angeles, CA",57264,US Department of Veterans Affairs,Los+Angeles,57264.0
+53975,Research Lab Specialist,"Los Angeles, CA",45180,USC,Los+Angeles,45180.0
+54076,Manager of Data Visualization,"Glendale, CA",120000,Jobspring Partners,Los+Angeles,120000.0
+54108,"Database Administrator, Big Data","Los Angeles, CA",102000,Conversant Media,Los+Angeles,102000.0
+54109,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES","Los Angeles County, CA",76238,Los Angeles County Human Resources,Los+Angeles,76238.0
+54132,IT Specialist (Network) - DEU-YMJ,"Pasadena, CA",69283,US Department of the Interior,Los+Angeles,69283.0
+54256,Postdoctoral Scholar - Research Associate,"Los Angeles, CA",48000,USC,Los+Angeles,48000.0
+54260,Financial Analyst,"El Segundo, CA",73000,BOEING,Los+Angeles,73000.0
+54432,"Test and Integration Engineer, 2019 Undergraduate Spring Co-...","El Segundo, CA 90245",73000,The Aerospace Corporation,Los+Angeles,73000.0
+54436,Senior Full Stack Software Engineer,"Los Angeles, CA",99000,SAP,Los+Angeles,99000.0
+54439,Software Engineer,"Burbank, CA",102000,Applied Minds,Los+Angeles,102000.0
+54441,Lead Software Engineer,"Pasadena, CA 91125",95000,California Institute of Technology,Los+Angeles,95000.0
+54453,Senior Security Engineer,"Manhattan Beach, CA",124000,BCG Digital Ventures,Los+Angeles,124000.0
+54456,Principal Electrical Engineer,"Los Angeles, CA",97000,Kernel,Los+Angeles,97000.0
+54462,"Senior Manager, CRM Analytics","Los Angeles, CA",120000,Harnham US,Los+Angeles,120000.0
+54546,Senior Computational Linguist,"Los Angeles, CA",180000,R2 Global,Los+Angeles,180000.0
+54547,Machine Learning Engineer/ Data Scientist,"Los Angeles, CA",180000,LT,Los+Angeles,180000.0
+54559,"Market Research Analyst, TV Content Strategy","Los Angeles, CA 90016",50000,NRG- A Stagwell Company,Los+Angeles,50000.0
+54561,Associate Account Manager,"Los Angeles, CA",45000,Twine,Los+Angeles,45000.0
+54567,ABS/CLO Research Analyst,"Los Angeles, CA",100000,Pure Search on behalf of an Investment Firm,Los+Angeles,100000.0
+54591,Senior Quality Control Scientist,"Santa Monica, CA",100000,Apex Life Sciences,Los+Angeles,100000.0
+54604,Lab Director,"Los Angeles, CA",75000,Cannabis Testing Lab,Los+Angeles,75000.0
+54607,Hedge Fund Analysis and Data Manager,"Santa Monica, CA 90404",80000,Robert Half Finance & Accounting,Los+Angeles,80000.0
+54629,Sr. Quality Control Manager,"Los Angeles, CA",115000,Standard Homeopathic Company / Hyland's,Los+Angeles,115000.0
+54641,Senior Research Analyst,"Redondo Beach, CA",92000,NelsonJobs,Los+Angeles,92000.0
+55488,Senior Software Engineer (Remote),"Los Angeles, CA",136000,HIRECLOUT,Los+Angeles,136000.0
+55489,Software Engineer FEATURED,"Pasadena, CA",109000,Galaxy Tek Hires,Los+Angeles,109000.0
+55490,Software Engineer (TS Clearance Required),"Burbank, CA 91504",103000,"Applied Minds, LLC",Los+Angeles,103000.0
+55493,Senior Software Engineer,"Los Angeles, CA 90025",123000,Conversion Logic,Los+Angeles,123000.0
+55495,Software Development Engineer Apps and UI - #03-AU41598,"Los Angeles, CA",92000,MJK Concepts,Los+Angeles,92000.0
+55496,Sr. Java Engineer – Stay casual & get into Machine Learning,"Buena Park, CA",118000,Camden Kelly Corporation,Los+Angeles,118000.0
+56897,Data Scientist,London WC1B,35000,Invennt Ltd,"London, Greater London",44800.0
+56900,Data Scientist - Natural Language Processing Expert,London EC2Y,40000,Karssen,"London, Greater London",51200.0
+56903,Data Scientist Graduate,Uxbridge,23000,Hertz Europe,"London, Greater London",29440.0
+56904,"Data Scientist, 3-month fixed term contract",London,20000,Financial Conduct Authority,"London, Greater London",25600.0
+56905,Lead Data Scientist,London,24000,Marshmallow,"London, Greater London",30720.0
+56906,Data Scientist,London,60000,Hazy,"London, Greater London",76800.0
+56909,Data Scientist,London SE1,45000,Fusion Lifestyle,"London, Greater London",57600.0
+56910,Data Scientist,London Bridge Station,40000,ZMedia,"London, Greater London",51200.0
+56911,Data Scientist,London,40000,Cytora,"London, Greater London",51200.0
+56913,Marketing Data Scientist,London,40000,nkoda,"London, Greater London",51200.0
+56922,Deliveries Operative,London,24506,University College London,"London, Greater London",31367.68
+56924,Graduate Data Scientist/Engineer,London,32000,Quantexa,"London, Greater London",40960.0
+56925,Data Scientist,London,45000,Cera Care,"London, Greater London",57600.0
+56938,Customer Sales Adviser,London E14,22000,Farepilot,"London, Greater London",28160.0
+56941,Data Scientist,London,40000,Echobox,"London, Greater London",51200.0
+56954,Data Scientist,London,40000,MarketInvoice,"London, Greater London",51200.0
+56955,Data Scientist,London,65000,Streetbees,"London, Greater London",83200.0
+56959,Data Scientist,London,40000,Curve,"London, Greater London",51200.0
+56962,Data Scientist,London E1,40000,Forward3D,"London, Greater London",51200.0
+56972,Scientist: Colour Science,London,29028,The British Museum,"London, Greater London",37155.840000000004
+56993,AI Labs - 30 x Data Scientist / Machine Learning Engineer (a...,London,50000,Xcede,"London, Greater London",64000.0
+56997,Data Scientist,London N1,55000,HomeServe,"London, Greater London",70400.0
+57013,Data Scientist (KTP Associate),London EC2Y,36000,PlanSnap LTD,"London, Greater London",46080.0
+57028,Data Scientist,London,46000,Financial Conduct Authority,"London, Greater London",58880.0
+57030,Data Scientist,London,45000,Quantexa,"London, Greater London",57600.0
+57064,Senior Data Scientist,London,40000,Cytora,"London, Greater London",51200.0
+57067,Data Scientist,London,35500,Profusion,"London, Greater London",45440.0
+57069,Senior Data Scientist,London,60000,Lyst,"London, Greater London",76800.0
+57090,Senior HIV/STI Surveillance and Prevention Scientist,Colindale,38589,Public Health England,"London, Greater London",49393.92
+57092,Data Scientist,London,60000,Aiimi Ltd,"London, Greater London",76800.0
+57101,Data Scientist - 6-12 month Fixed Term Contract,London,50000,BSI,"London, Greater London",64000.0
+57105,Marketing Data Scientist - Moonpig,London,10000,Photobox Group,"London, Greater London",12800.0
+57106,Data Scientist,London,40000,RHR,"London, Greater London",51200.0
+57107,NLP Data Scientist,London,75000,Harnham,"London, Greater London",96000.0
+57108,Senior Data Scientist – Global Agency,London,45000,Silverdrum,"London, Greater London",57600.0
+57119,Data Scientist,Greater London,30000,Salt Recruitment,"London, Greater London",38400.0
+57124,Data Science,London,60000,ConSol Partners,"London, Greater London",76800.0
+57125,Data Science Communities Officer,London SW1V,31200,Office for National Statistics,"London, Greater London",39936.0
+57134,Data Scientist - London,London,45000,Opus Recruitment Solutions,"London, Greater London",57600.0
+57135,Data Scientist - Customer Analytics,London,30000,ConsultTechology,"London, Greater London",38400.0
+57138,JUNIOR DATA SCIENTIST,London,35000,Harnham,"London, Greater London",44800.0
+57143,Research Assistant,London,30922,University College London,"London, Greater London",39580.16
+57156,Data Scientist,London,30000,Harnham,"London, Greater London",38400.0
+57158,Marketing Data Scientist,London,10000,Photobox,"London, Greater London",12800.0
+57187,Spark Data Scientist,London,75000,Harnham,"London, Greater London",96000.0
+57191,Data Scientist - Spark,London,70000,Harnham,"London, Greater London",89600.0
+57192,Data Scientist - Python,London,60000,Bettor Believe,"London, Greater London",76800.0
+57195,Data Scientist,London,50000,BSL Consulting LLC,"London, Greater London",64000.0
+57196,Building Information Data Manager,South Kensington,46762,Imperial College London,"London, Greater London",59855.36
+57204,Data Engineer,London E14,55000,Revolut Ltd,"London, Greater London",70400.0
+57205,Data Scientist,London,40000,Devonshire Hayes Recruitment Specialist,"London, Greater London",51200.0
+57206,Senior Data Scientist - Risk Management,London,84000,McKinsey & Company,"London, Greater London",107520.0
+57227,Data Scientist,London,70000,Team Consulting International Limited,"London, Greater London",89600.0
+57228,Data Scientist - customer analytics,London,40000,Harnham,"London, Greater London",51200.0
+57230,Junior Data Engineer,London,40000,BMLL Technologies Ltd,"London, Greater London",51200.0
+57231,Medical Laboratory Assistant,Sutton SM2,21446,Royal Marsden NHS Foundation Trust,"London, Greater London",27450.88
+57232,Data Scientist,Surrey,30000,Inspiring Interns,"London, Greater London",38400.0
+57234,SD Virology Laboratory Scientist *Extended Deadline until 26...,Weybridge,26350,Animal and Plant Health Agency,"London, Greater London",33728.0
+57244,Quant Researcher/Data Scientist,London,100000,Oho Group,"London, Greater London",128000.0
+57245,Data Scientist,London,55000,InterQuest Group,"London, Greater London",70400.0
+57247,Customer-Facing Data Scientist,London,50000,Mudano,"London, Greater London",64000.0
+57249,Data Scientist,London,95624,Prime Professional Recruitment Limited,"London, Greater London",122398.72
+57251,Lead Data Scientist,London,60000,Ravelin,"London, Greater London",76800.0
+57252,Senior Conservation Scientist,Richmond upon Thames,32629,The National Archives,"London, Greater London",41765.12
+57269,Medical Scientist Liaison,London,40000,Chemistree,"London, Greater London",51200.0
+57281,Data Scientist,London,60000,Aspire Data Recruitment,"London, Greater London",76800.0
+57282,Fintech – London - Data Scientist,London,40000,Opus Recruitment Solutions,"London, Greater London",51200.0
+57283,Data Scientist,London,70000,Reco Ltd,"London, Greater London",89600.0
+57285,Data Scientist,London,40000,Mcgregor Boyall,"London, Greater London",51200.0
+57287,Python Data Scientist – Fintech – Python / SQL – London,London,50000,techstack Recruitment,"London, Greater London",64000.0
+57288,Entry Level Analyst - Consumer Quantitative Research,London,23000,Hall & Partners,"London, Greater London",29440.0
+57289,Data Scientist - optimisation,London,35000,Harnham,"London, Greater London",44800.0
+57301,Data Scientist - Banking,London,70000,Mcgregor Boyall,"London, Greater London",89600.0
+57303,Data Scientist,London,60000,LMA Recruitment,"London, Greater London",76800.0
+57305,Data Scientist,London,70000,Reqiva,"London, Greater London",89600.0
+57306,Data Scientist,London,60000,Talent International,"London, Greater London",76800.0
+57307,Data Scientist - Hedgefund,London,80000,Harnham,"London, Greater London",102400.0
+57316,Senior Clinical Data Scientist – Cardiac Imaging,London E1,55905,Barts Health NHS Trust,"London, Greater London",71558.40000000001
+57318,Information Analyst,London,25000,TI Media,"London, Greater London",32000.0
+57319,Big Data Scientist,Southwark,70000,Technet IT,"London, Greater London",89600.0
+57320,Credit Data Scientist,London,60000,Harnham,"London, Greater London",76800.0
+57332,Data Scientist - Machine Learning Lab,London,70000,Harnham,"London, Greater London",89600.0
+57333,Data Scientist,London,50000,GreenLight Recruitment,"London, Greater London",64000.0
+57334,Data Scientist,London,85000,Larson Resource Group Limited,"London, Greater London",108800.0
+57336,Data Scientist,London,75000,Woolf Group,"London, Greater London",96000.0
+57337,Data Scientist - Machine Learning,London,50000,Metrica Recruitment,"London, Greater London",64000.0
+57340,Data Scientist - fintech,London,60000,Harnham,"London, Greater London",76800.0
+57352,Data Scientist - Customer Insight,London,40000,Harnham,"London, Greater London",51200.0
+57356,Client Facing Data Scientists,London,90000,SoulTek,"London, Greater London",115200.0
+57371,Data Scientist - Attribution Analytics,London,60000,Harnham,"London, Greater London",76800.0
+57373,Insurance Data Scientist,London,30000,Datatech Analytics,"London, Greater London",38400.0
+57374,Data Scientist - Deep Learning,London,65000,Harnham,"London, Greater London",83200.0
+57378,Data Scientist - Loyalty Analytics,London,50000,Harnham,"London, Greater London",64000.0
+57379,Research and Development Industrial Placement,London,20000,BBC,"London, Greater London",25600.0
+57388,Water quality scientist,Walton-on-Thames,35000,Thames Water Utilites,"London, Greater London",44800.0
+57390,Internships: Business Intelligence 2019/20,London,21000,Direct-to-Consumer and International,"London, Greater London",26880.0
+57393,Python Data Scientist,London,50000,Oho Group,"London, Greater London",64000.0
+57395,Data Scientist / Data Science Analyst (Marketing),London W1W,45000,Xcede,"London, Greater London",57600.0
+57411,Data Scientist,London,65000,Capita IT Resourcing,"London, Greater London",83200.0
+57423,Medical Notes Summariser/ Clinical Coder,London,25000,Babylon Health,"London, Greater London",32000.0
+57424,Lead Data Scientist,London,80000,Harnham,"London, Greater London",102400.0
+57425,Senior Data Scientist,London,55000,Harnham,"London, Greater London",70400.0
+57427,Data Scientist - sports,London,50000,Harnham,"London, Greater London",64000.0
+57428,Chief Data Scientist - Start-up,London,75000,Harnham,"London, Greater London",96000.0
+57442,Data Engineer,London,45000,Game Analytics,"London, Greater London",57600.0
+57444,Innovation Data Scientist,London,50000,Harnham,"London, Greater London",64000.0
+57450,Senior Data Scientist,London,50000,Bettor Believe,"London, Greater London",64000.0
+57462,AI Data Scientist,London,55000,Harnham,"London, Greater London",70400.0
+57465,919-AP-1333932-EXT - Senior HIV/STI Surveillance and Prevent...,London,38589,Public Health England,"London, Greater London",49393.92
+57466,Datatonic Graduate Talent Programme (2019/2020),London,32500,Datatonic,"London, Greater London",41600.0
+57469,Data Scientist,London,60000,ReThink Recruitment,"London, Greater London",76800.0
+57478,Epidemiologist,London NW9,38589,Public Health England,"London, Greater London",49393.92
+57479,Principal Data Scientist,London,80000,Harnham,"London, Greater London",102400.0
+57483,Senior Data Scientist - AI/IoT,London,45000,Harnham,"London, Greater London",57600.0
+57485,Data Scientist - Computer Vision,London,95000,Harnham,"London, Greater London",121600.0
+57486,Data Scientist - media,London,75000,Harnham,"London, Greater London",96000.0
+57496,Software Engineer - Data Science,London,55000,Quantexa,"London, Greater London",70400.0
+57497,Chief Data Scientist,London,100000,Harnham,"London, Greater London",128000.0
+57499,Data Scientist/Quantitative Researcher,London,75000,Harnham,"London, Greater London",96000.0
+57500,Big Data Scientist,Greater London,70000,TechNET IT Recruitment Ltd,"London, Greater London",89600.0
+57503,Chemical Laboratories Manager,South Kensington,36424,Natural History Museum,"London, Greater London",46622.72
+57516,Senior Research Associate /Senior Scientist,Marylebone,42000,Blind Veterans UK,"London, Greater London",53760.0
+57517,Cell Therapy Process Scientist (Knowledge Transfer Partnersh...,London,30922,University College London,"London, Greater London",39580.16
+57522,Senior Data Scientist,London,55000,Cathcart Associates,"London, Greater London",70400.0
+57532,Data Scientist - Agency,London,60000,Harnham,"London, Greater London",76800.0
+57539,Data Scientist/Sr Data Scientist - Permanent - London,London,80000,Vertex Solutions,"London, Greater London",102400.0
+57540,Research Fellow (Postdoctoral Scientist),London,35328,University College London,"London, Greater London",45219.840000000004
+57549,Data Scientist - Production Environment,London,70000,Harnham,"London, Greater London",89600.0
+57550,Healthcare Scientist Practitioner Principal (Research),London E1,49077,Barts Health NHS Trust,"London, Greater London",62818.56
+57551,Data Scientist - Customer analytics/CRM,London,45000,Harnham,"London, Greater London",57600.0
+57552,Higher Information Analyst – Statistician,London EC1A,39885,Barts Health NHS Trust,"London, Greater London",51052.8
+57557,Senior Data Scientist / Senior Statistical Analyst,London,50000,Blue Pelican,"London, Greater London",64000.0
+57569,Data Scientist - psychometric analysis,London,60000,Harnham,"London, Greater London",76800.0
+57573,Head of Data,London,65000,WeDoData,"London, Greater London",83200.0
+57575,Lead Data Scientist,London,85000,Datatech Analytics,"London, Greater London",108800.0
+57592,Data Scientist - Challenger Bank,London,65000,Harnham,"London, Greater London",83200.0
+57608,919-AP-10564446-EXT - Epidemiologist,London,38589,Public Health England,"London, Greater London",49393.92
+57621,Data Scientist - Manager,London,70000,Harnham,"London, Greater London",89600.0
+57623,Senior Data Scientist,London,55000,Parallel Consulting,"London, Greater London",70400.0
+57626,R&D Data Scientist - computer vision,London,55000,Harnham,"London, Greater London",70400.0
+57627,Data Engineer,London W11,60000,Apsara Capital LLP,"London, Greater London",76800.0
+57638,Senior Data Engineer,London SE1,65000,MyDrive Solutions Ltd,"London, Greater London",83200.0
+57640,Senior Data Scientist - customer analytics,London,50000,Harnham,"London, Greater London",64000.0
+57642,Lead Data Scientist/ CTO,London,70000,Harnham,"London, Greater London",89600.0
+57643,Quantitative Analyst – Football,London,30000,Bettor Believe,"London, Greater London",38400.0
+57645,Research Fellow,London,35328,University College London,"London, Greater London",45219.840000000004
+57658,Data Scientist - world-leading tech team,London,50000,Harnham,"London, Greater London",64000.0
+57660,Data Scientist - Population Health Issues,London,50000,Informatiq Consulting,"London, Greater London",64000.0
+57661,Chat Bot Developer (Python),London,25000,Travtus,"London, Greater London",32000.0
+57679,Lead Data Scientist,Staines-upon-Thames,65000,Morson International,"London, Greater London",83200.0
+57680,Data Engineer,London,45000,Quantexa,"London, Greater London",57600.0
+57692,Data Engineer,London W6,40000,Gambit Research,"London, Greater London",51200.0
+57698,Data Scientist - Data Lab,London,70000,Harnham,"London, Greater London",89600.0
+57699,"Principal Data Scientist - Gaming - South London - £85,000",London,70000,Harnham,"London, Greater London",89600.0
+57711,Data Scientist,London,80000,Cogs Agency,"London, Greater London",102400.0
+57718,Data Scientist - Digital Innovation Team,London,65000,Harnham,"London, Greater London",83200.0
+57727,Senior Data Scientist - NLP,London,55000,Harnham,"London, Greater London",70400.0
+57732,Data Scientist - Machine Learning Research,London,80000,Harnham,"London, Greater London",102400.0
+57746,"Multiple Data Scientists - £40,000 - £90,000",London,40000,Harnham,"London, Greater London",51200.0
+57747,Senior Attribution Analyst/Data Scientist,London,55000,Harnham,"London, Greater London",70400.0
+57749,Data Engineer,London,50000,Zoopla,"London, Greater London",64000.0
+57752,Computer Vision / Machine Learning Researcher,London,30000,Statmetrix,"London, Greater London",38400.0
+57754,Research Data Scientist - £85k,London,80000,Harnham,"London, Greater London",102400.0
+57767,Lead Data Scientist,London,60000,Metrica Recruitment,"London, Greater London",76800.0
+57768,Junior Quantitative Analyst,London,35000,Anderson Red,"London, Greater London",44800.0
+57771,Data Engineer,London,70000,Smarkets,"London, Greater London",89600.0
+57782,Customer Scientist - innovation,London,60000,Harnham,"London, Greater London",76800.0
+57783,Research Technician,London,43884,University College London,"London, Greater London",56171.520000000004
+57784,MRC Postdoctoral Research Scientist - LMS 965,London,35340,Medical Research Council,"London, Greater London",45235.200000000004
+57790,Diagnostic Physicists,London,29893,United Kingdom Atomic Energy Authority (UKAEA),"London, Greater London",38263.04
+57802,Data Engineer,London,30000,SDL Solutions Ltd,"London, Greater London",38400.0
+57806,Research Fellow (Medical Statistician),London,35328,University College London,"London, Greater London",45219.840000000004
+57823,Lead Data Scientist/Tech Lead,London,70000,Harnham,"London, Greater London",89600.0
+57824,Statistical Analyst,London,30000,Harnham,"London, Greater London",38400.0
+57829,Data Scientist - global ecommerce company,London,70000,Harnham,"London, Greater London",89600.0
+57838,Data Scientist (Digital Marketing) – Entertainment Company,London,45000,Cranberry Panda,"London, Greater London",57600.0
+57840,Machine Learning Engineer (Intern),London,30000,Onfido,"London, Greater London",38400.0
+57841,Senior Data Scientist,London,90000,Eames Consulting,"London, Greater London",115200.0
+57844,Senior Data Scientist,London,65000,Mcgregor Boyall,"London, Greater London",83200.0
+57858,Senior Data Scientist,London,55000,Amiqus,"London, Greater London",70400.0
+57859,Senior Data Engineer,London,80000,Fluidly,"London, Greater London",102400.0
+57860,Data Engineer,London,30000,Monarch IT,"London, Greater London",38400.0
+57874,Big Data Architect,London SE1,70000,Keyrus,"London, Greater London",89600.0
+57882,Principal R&D Data Scientist,London,85000,Harnham,"London, Greater London",108800.0
+57883,QC Scientist Biologics,Hertfordshire,30000,CK Group,"London, Greater London",38400.0
+57894,Visualisation Consultant,London,30000,Aiimi Ltd,"London, Greater London",38400.0
+57895,Senior Data Engineer,London,60000,MarkJames Search,"London, Greater London",76800.0
+57896,"Junior Quantitative Analyst, Sports",London,35000,Bettor Believe,"London, Greater London",44800.0
+57897,Sales and Marketing Officer,Camden,25000,Microbiology Society,"London, Greater London",32000.0
+57898,Senior Data Scientist - T Cell Therapies,London,35000,Next Phase Recruitment Limited,"London, Greater London",44800.0
+57901,Research Assistant - Marie Curie Early Stage Researcher,South Kensington,36961,Imperial College London,"London, Greater London",47310.08
+57914,Senior Data Engineer role,London,50000,Hive - Centrica,"London, Greater London",64000.0
+57917,"Principal Data Scientist - FS - London - £105,000 + Benefits",London,95000,Lawrence Harvey,"London, Greater London",121600.0
+57928,Principal Data Scientist - R&D,London,85000,Harnham,"London, Greater London",108800.0
+57929,Clinical Pharmacology Scientists,London Bridge Station,50000,Richmond Pharmacology,"London, Greater London",64000.0
+57930,Data Scientist - Credit Risk,London,50000,Harnham,"London, Greater London",64000.0
+57931,Senior Data Scientist – Global Entertainment Company,West London,45000,Rockit Recruitment,"London, Greater London",57600.0
+57932,Data Engineer/Data Scientist,London,60000,Oho Group,"London, Greater London",76800.0
+57934,Band A - Chief Media & Marketing Data Officer,London,48965,Cabinet Office,"London, Greater London",62675.200000000004
+57955,Principal Data Scientist - Innovation,London,85000,Harnham,"London, Greater London",108800.0
+57966,Adeno-associated Virus (AAV) Development Scientist,Hertfordshire,30000,CK Group,"London, Greater London",38400.0
+57968,Senior Data Scientist - Experimentation,London,70000,Harnham,"London, Greater London",89600.0
+57969,Genetic Technologist,Sutton SM2,32258,Royal Marsden NHS Foundation Trust,"London, Greater London",41290.24
+57973,Python Data Scientist / Software Engineer,London,65000,Harnham,"London, Greater London",83200.0
+57985,Data Specialist,London,40000,Venturi,"London, Greater London",51200.0
+57986,Senior Data Scientist,London,50000,kdr Recruitment,"London, Greater London",64000.0
+57987,Research Officer / Senior Research Officer - Development Str...,London,28492,Overseas Development Institute,"London, Greater London",36469.76
+57990,Data Analyst/Processing Executive,London,24000,Nicholson Glover Consulting,"London, Greater London",30720.0
+58003,Lead Data Engineer,Bank Station,80000,Unmortgage,"London, Greater London",102400.0
+58004,Data Engineer - London,London,55000,Opus Recruitment Solutions,"London, Greater London",70400.0
+58005,Graduate Data Science Analyst,London,25000,Datatech Analytics,"London, Greater London",32000.0
+58020,Research Fellow,London,39304,London School of Hygiene & Tropical Medicine,"London, Greater London",50309.12
+58024,Principal Data Scientist - Consultancy,London,75000,Harnham,"London, Greater London",96000.0
+58045,Senior R&D Data Scientist,London,75000,Harnham,"London, Greater London",96000.0
+58054,Senior Forensic Data Scientist,London,60000,Harnham,"London, Greater London",76800.0
+58056,Head of Business Intelligence,London,60000,Growth Street,"London, Greater London",76800.0
+58060,Senior Data Scientist - Product,London,60000,Harnham,"London, Greater London",76800.0
+58063,Artificial Intelligence Engineer / Data Scientist,London,32000,Deerfoot,"London, Greater London",40960.0
+58076,Adobe Data Engineer,London,70000,Harnham,"London, Greater London",89600.0
+58090,Data Analyst,London,35000,Inspiring Interns,"London, Greater London",44800.0
+58093,Creative Deep Learning Scientist,London,65000,Harnham,"London, Greater London",83200.0
+58096,Python Developer Data SQL - Hedge Fund,London,60000,Client Server,"London, Greater London",76800.0
+58097,Data Science Lead,London,80000,Harnham,"London, Greater London",102400.0
+58112,Machine Learning Scientist - AI,London,50000,Harnham,"London, Greater London",64000.0
+58114,Python Engineer,London,70000,Fluidly,"London, Greater London",89600.0
+58128,Catastrophe Risk Modeler - Surge,London,40800,Risk Management Solutions,"London, Greater London",52224.0
+58132,"Data Scientist (Manager) - FS - London - £105,000 + Benefits",London,95000,Lawrence Harvey,"London, Greater London",121600.0
+58134,Senior Machine Learning Scientist,London,70000,Harnham,"London, Greater London",89600.0
+58145,Lead Data Scientist - customer,London,60000,Harnham,"London, Greater London",76800.0
+58166,UX Designer,London,35000,Bud,"London, Greater London",44800.0
+58168,Data Engineer – SQL,London,30000,Blue Pelican,"London, Greater London",38400.0
+58169,Lead Data Scientist - Consultant,London,50000,We Do Data,"London, Greater London",64000.0
+58170,Software Developer: Medical Imaging,London,30000,"IAG, Image Analysis Group","London, Greater London",38400.0
+58183,Junior-Full-Stack-JavaScript-Developer,London,35000,Tecknuovo,"London, Greater London",44800.0
+58185,Senior Data Manager - Group Analytics,London,49725,Lloyds Banking Group,"London, Greater London",63648.0
+58186,Research Associate,South Kensington,37904,Imperial College London,"London, Greater London",48517.12
+58190,Senior Data Scientist - Credit Reference Agency,London,70000,Harnham,"London, Greater London",89600.0
+58202,Lead Data Scientist,London,65000,Grey Matter Recruitment,"London, Greater London",83200.0
+58203,DATA SCIENCE EXPERT,London,60000,Blue Pelican,"London, Greater London",76800.0
+58222,Data Science Analyst,London,46000,Harnham,"London, Greater London",58880.0
+58223,Quantitative Analyst – Sports Betting,London,50000,Bettor Believe,"London, Greater London",64000.0
+58224,Data Engineer - SQL& Python,London,30000,Metrica Recruitment,"London, Greater London",38400.0
+58236,Catastrophe Risk Modeler - Surge,London,40800,Risk Management Solutions (RMS),"London, Greater London",52224.0
+58243,Head of Growth,London,45000,Be Applied,"London, Greater London",57600.0
+58255,Data Engineer,London,50000,Reqiva,"London, Greater London",64000.0
+58258,Data Scientist - Team Lead,London,70000,Harnham,"London, Greater London",89600.0
+58261,Perfusionist (Leading Private Hospital),London,45000,HCA,"London, Greater London",57600.0
+58263,Senior Customer Scientist,London,50000,Harnham,"London, Greater London",64000.0
+58275,Senior Data Scientist - Data Science Manager,London,80000,Datatech Analytics,"London, Greater London",102400.0
+58279,Scala Software Engineer (Big Data),London,50000,Linux Recruit,"London, Greater London",64000.0
+58280,Lead Data Scientist - global entertainment company,London,75000,Harnham,"London, Greater London",96000.0
+58293,"Oxbridge/Russell Group Graduate - Quantitative Analyst, Spor...",London,30000,Bettor Believe,"London, Greater London",38400.0
+58298,Product Manager,London,50000,MarketInvoice,"London, Greater London",64000.0
+58312,Data Engineer,London,40000,Larson Resource Group Limited,"London, Greater London",51200.0
+58313,Monoclonal Antibody Scientist in Slough,Slough,36000,CK Group,"London, Greater London",46080.0
+58315,Data Science Consultant - R& Python,London,45000,Metrica Recruitment,"London, Greater London",57600.0
+58317,Lead Data Engineer,London,80000,Zoopla,"London, Greater London",102400.0
+58326,Data Science Manager,London,30000,Datatech Analytics,"London, Greater London",38400.0
+58332,Product Manager,London,60000,Curve,"London, Greater London",76800.0
+58335,Software Engineers - Core Platforms,London,60000,Babylon Health,"London, Greater London",76800.0
+58344,Data Analyst Python SQL Mathematics,London,55000,Client Server,"London, Greater London",70400.0
+58351,Research Scientist - blockchain start-up,London,60000,Harnham,"London, Greater London",76800.0
+58352,Data Engineer,London,80000,Harnham,"London, Greater London",102400.0
+58353,Machine Learning Engineer,London,60000,Modis,"London, Greater London",76800.0
+58359,iOS Engineer,London,35000,Ravelin,"London, Greater London",44800.0
+58361,Data Engineer,London,90000,Churchill Frank,"London, Greater London",115200.0
+58365,Senior Data Engineer,London,70000,Parallel Consulting,"London, Greater London",89600.0
+58375,Head of Data Science,London,100000,Cogs Agency,"London, Greater London",128000.0
+58376,Data Science Consultant,London,90000,Harnham,"London, Greater London",115200.0
+58382,"National Statistician, Chief Executive and Permanent Secreta...",London,150000,Office for National Statistics,"London, Greater London",192000.0
+58394,Quantitative Analyst - Tier 1 Investment Bank - PhD,London,50000,Kite Group,"London, Greater London",64000.0
+58395,Senior Data Analyst | Entertainment,London,45000,Research Talent Hub,"London, Greater London",57600.0
+58413,Python Developer Data - Hedge Fund,London,75000,Client Server,"London, Greater London",96000.0
+58417,3 x Research Fellow (Machine Learning),South Kensington,42065,Imperial College London,"London, Greater London",53843.200000000004
+58430,Statistician / Senior Statistician,Sutton SM2,32258,Royal Marsden NHS Foundation Trust,"London, Greater London",41290.24
+58432,Data Architect,London,70000,Harnham,"London, Greater London",89600.0
+58435,Back End Developer,London W1S,60000,Augmento Global,"London, Greater London",76800.0
+58449,Machine Learning Engineer,Finsbury Park,40000,Ayuda Heuristics,"London, Greater London",51200.0
+58460,Machine Learning Software Engineer,London,35000,Financial Conduct Authority,"London, Greater London",44800.0
+58461,Data Analytics Consultant,London,75000,Modis,"London, Greater London",96000.0
+58463,Data Scientist - Product Search Engine – London based,London,70000,Opus Recruitment Solutions,"London, Greater London",89600.0
+58464,React/Node Software Engineers,London,70000,SoulTek,"London, Greater London",89600.0
+58467,Senior Data Strategist,London,35000,Harnham,"London, Greater London",44800.0
+58475,Ruby Data Engineer,London,45000,Linux Recruit,"London, Greater London",57600.0
+58478,Big Data Engineer,London,35000,Churchill Frank,"London, Greater London",44800.0
+58480,Quantitative Analyst,London,90000,LMA Recruitment,"London, Greater London",115200.0
+58509,Data Engineer,London,85000,Detail 2 Recruitment Ltd,"London, Greater London",108800.0
+58526,Back End Software Engineer,London,55000,Project Sapiens,"London, Greater London",70400.0
+58527,Technical Consultant - Data Science,London,70000,Harnham,"London, Greater London",89600.0
+58528,Backend Developer – Machine Learning / Big Data / Python / G...,London,50000,techstack Recruitment,"London, Greater London",64000.0
+58529,Data Engineer - Big Data,London,50000,kdr Recruitment,"London, Greater London",64000.0
+58554,Mid - Senior Python Developer,Old Street,50000,Recyclabox,"London, Greater London",64000.0
+58555,Data Engineer (Python) Disruptive FinTech Start Up,West End,60000,Understanding Recruitment,"London, Greater London",76800.0
+58556,Implementation Engineer,London,50000,Behavox,"London, Greater London",64000.0
+58557,Data Science Engineer - consultancy,London,70000,Harnham,"London, Greater London",89600.0
+58560,Marketing / Growth Manager,London,35000,Snaptrip,"London, Greater London",44800.0
+58572,Head of Business Intelligence,London,60000,ManaTM,"London, Greater London",76800.0
+58573,Data Science Manager,London,85000,Prime Professional Recruitment Limited,"London, Greater London",108800.0
+58574,Data Science Lead - recommenders,London,80000,Harnham,"London, Greater London",102400.0
+58607,Mid-Full-Stack-JavaScript-Developer,London,40000,Tecknuovo,"London, Greater London",51200.0
+58609,Quantitative Strategist - Machine Learning,London,90000,Harnham,"London, Greater London",115200.0
+58621,Director of Data Science,London,85000,Datatech Analytics,"London, Greater London",108800.0
+58624,Data Engineer,London,50000,Talent International,"London, Greater London",64000.0
+58625,Full-stack Developer,London,40000,Fractal Labs,"London, Greater London",51200.0
+58634,Lead Statistician,Sutton SM2,47078,Royal Marsden NHS Foundation Trust,"London, Greater London",60259.840000000004
+58640,"QUANTITATIVE ANALYST (VBA, MATLAB)",London,40000,Utility People,"London, Greater London",51200.0
+58654,"Data Scientist (Senior Manager) - FS - £125,000 + Benefits",London,95000,Lawrence Harvey,"London, Greater London",121600.0
